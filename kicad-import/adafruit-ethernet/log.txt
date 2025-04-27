@@ -1,0 +1,4 @@
+10:01:56 AM: Ignoring a wire since Eagle layer 'tRestrict' (41) was not mapped
+10:01:56 AM: Ignoring a wire since Eagle layer 'tRestrict' (41) was not mapped
+10:01:56 AM: Ignoring a wire since Eagle layer 'tRestrict' (41) was not mapped
+10:01:56 AM: Ignoring a wire since Eagle layer 'tRestrict' (41) was not mapped
