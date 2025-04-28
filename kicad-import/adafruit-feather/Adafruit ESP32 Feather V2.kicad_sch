@@ -391,213 +391,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Adafruit ESP32 Feather V2-eagle-import:CON_JST_PH_2PIN_MT_BATT"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "X"
-				(at 0 5.588 90)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" ""
-				(at 1.651 5.588 90)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Adafruit ESP32 Feather V2:JSTPH2_BATT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "CON_JST_PH_2PIN_MT_BATT_1_0"
-				(polyline
-					(pts
-						(xy -6.35 5.08) (xy -6.35 -2.54)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -6.35 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 5.08) (xy -6.35 5.08)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 1.27 5.08)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive inverted
-					(at -2.54 2.54 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-			)
-			(symbol "CON_JST_PH_2PIN_MT_BATT_2_0"
-				(circle
-					(center 0 3.81)
-					(radius 1.27)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin bidirectional line
-					(at 0 0 90)
-					(length 2.54)
-					(name "P$1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "NC1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "CON_JST_PH_2PIN_MT_BATT_3_0"
-				(circle
-					(center 0 3.81)
-					(radius 1.27)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin bidirectional line
-					(at 0 0 90)
-					(length 2.54)
-					(name "P$1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "NC2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Adafruit ESP32 Feather V2-eagle-import:CP2102N-24"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3834,331 +3627,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Adafruit ESP32 Feather V2-eagle-import:MCP73831/2"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -10.16 11.43 0)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at -10.16 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "Adafruit ESP32 Feather V2:SOT23-5"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "MCP73831/2 LIPO Charger\n\n• VDD: 3.75 - 6V\n• Temp -40 - 85°C\n• Programmable Charge Rate: 15-500mA\n\nNOTE: STAT is a tri-state logic output on the MCP73831 and an open-drain output on the MCP73832.\n\nSOT23-5 with 4.2V output and tri-state logic on STAT = MCP73831T-2ACI/OT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "MCP73831/2_1_0"
-				(polyline
-					(pts
-						(xy -10.16 10.16) (xy -10.16 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -10.16 10.16) (xy 10.16 10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -10.16 5.08) (xy 10.16 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -10.16 -5.08) (xy -10.16 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -10.16 -5.08) (xy -10.16 -10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 10.16) (xy 10.16 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 5.08) (xy 10.16 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -5.08) (xy -10.16 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -5.08) (xy 10.16 -10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -10.16) (xy -10.16 -10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "VDD:"
-					(at -8.255 -7.62 0)
-					(effects
-						(font
-							(size 1.27 1.0795)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "Temp:"
-					(at -8.255 -9.525 0)
-					(effects
-						(font
-							(size 1.27 1.0795)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "LIPO Charger"
-					(at -6.35 6.35 0)
-					(effects
-						(font
-							(size 1.27 1.0795)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "MCP73831/2"
-					(at -5.715 8.255 0)
-					(effects
-						(font
-							(size 1.27 1.0795)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "3.75-6V"
-					(at 0 -7.62 0)
-					(effects
-						(font
-							(size 1.27 1.0795)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "-40-85°C"
-					(at 0 -9.525 0)
-					(effects
-						(font
-							(size 1.27 1.0795)
-						)
-						(justify left bottom)
-					)
-				)
-				(pin power_in line
-					(at -12.7 2.54 0)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at -12.7 -2.54 0)
-					(length 2.54)
-					(name "STAT"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 12.7 2.54 180)
-					(length 2.54)
-					(name "VBAT"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 12.7 0 180)
-					(length 2.54)
-					(name "PROG"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 12.7 -2.54 180)
-					(length 2.54)
-					(name "VSS"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Adafruit ESP32 Feather V2-eagle-import:MOSFET-N_DUAL"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4908,410 +4376,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Adafruit ESP32 Feather V2-eagle-import:MOSFET-P"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q"
-				(at 2.794 0.381 0)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at 2.794 -1.905 0)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "Adafruit ESP32 Feather V2:SOT23-R"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "P-Channel Mosfet\n\nLEGEND\n\nVDS: Voltage Drain-Source ID: Drain Current RDS(ON): Drain-Source On-State Resistance VGS(TH): Gate-Source Threshold Voltage CISS: Drain-Source Input Capacitance\n\nSOT-23   Name VDS ID RDS(ON) VGS(TH) CISS Order Number    IRLML5103 30V 760mA 600 mOhm -- 75pF @ 25V Digikey: IRLML5103PBFCT-ND    IRLML6401 12V 4.3A 50 mOhm 950mV @ 250µA 830pF @ 10V Digikey: IRLML6401PBFTR-ND    NTR0202PL 20V 400mA 800 mOhm 2.3V @ 250uA 70pF @ 5V Digikey: NTR0202PLT1GOSTR-ND    NTR4101PT1G 20V 1.8A 85 mOhm 1.2V @ 250uA 675pF @ 10V Digikey: NTR4101PT1GOSCT-ND    DMP2004K 20V 600mA 900 mOhm 1V @ 250uA 175pF @ 16V Digikey: DMP2004KDICT-ND    PMV65XP 20V 3.9A 76 mOhm 950mV @ 1mA 725pF @ 20V Digikey: 568-2358-2-ND                       TO-252   Name VDS ID RDS(ON) VGS(TH) CISS Order Number    AOD417 30V 25A 34 mOhm 3V @ 250µA 920pF @ 15V Digikey: 785-1106-2-ND     PowerPak   Name VDS ID RDS(ON) VGS(TH) CISS Order Number     AON7401 30V 12A 14 mOhm 3V @ 250µA 2600pF @ 15V Digikey: 785-1302-1-ND"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "MOSFET-P_1_0"
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy -2.54 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 2.54) (xy -1.778 3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 1.905) (xy -1.778 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 0) (xy -1.778 0.762)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 0) (xy 0 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -0.762) (xy -1.778 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -2.54) (xy -1.778 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -3.175) (xy -1.778 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 2.54)
-					(radius 0.3592)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy -1.778 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 1.27 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy -1.016 -0.762) (xy -1.016 0.762)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 0 -2.54)
-					(radius 0.3592)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.508 0.762) (xy 0.762 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0.508) (xy 1.27 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0.508) (xy 1.27 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0.508) (xy 1.778 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -0.508) (xy 1.778 0.254) (xy 0.762 0.254)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 1.27 0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.778 0.508) (xy 2.032 0.254)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "G"
-					(at -3.81 1.27 0)
-					(effects
-						(font
-							(size 0.8128 0.6908)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "S"
-					(at 0.635 3.175 0)
-					(effects
-						(font
-							(size 0.8128 0.6908)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "D"
-					(at 0.635 -3.81 0)
-					(effects
-						(font
-							(size 0.8128 0.6908)
-						)
-						(justify left bottom)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 2.54)
-					(name "G"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Adafruit ESP32 Feather V2-eagle-import:MOUNTINGHOLE2.5"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5936,229 +5000,6 @@
 						(effects
 							(font
 								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Adafruit ESP32 Feather V2-eagle-import:STEMMA_I2C_QTRA"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "CONN"
-				(at -3.81 8.255 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Value" ""
-				(at -3.81 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "Adafruit ESP32 Feather V2:JST_SH4_RA"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "STEMMA_I2C_QTRA_1_0"
-				(polyline
-					(pts
-						(xy -3.81 7.62) (xy -3.81 -5.08)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -5.08) (xy 3.81 -5.08)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 7.62) (xy -3.81 7.62)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -5.08) (xy 3.81 7.62)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive inverted
-					(at 0 5.08 0)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at 0 2.54 0)
-					(length 2.54)
-					(name "V+"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at 0 0 0)
-					(length 2.54)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at 0 -2.54 0)
-					(length 2.54)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "STEMMA_I2C_QTRA_2_0"
-				(pin bidirectional line
-					(at 0 0 0)
-					(length 5.08)
-					(name "MT"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "MT1"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-			)
-			(symbol "STEMMA_I2C_QTRA_3_0"
-				(pin bidirectional line
-					(at 0 0 0)
-					(length 5.08)
-					(name "MT"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "MT2"
-						(effects
-							(font
-								(size 1.524 1.524)
 							)
 						)
 					)
@@ -8281,17 +7122,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "5.0K  = 200mA"
-		(exclude_from_sim no)
-		(at 68.58 157.48 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify left bottom)
-		)
-		(uuid "20efd478-3fa1-4d09-a8f7-9db155861b61")
-	)
 	(text "HEADERS"
 		(exclude_from_sim no)
 		(at 170.18 111.76 0)
@@ -8313,17 +7143,6 @@
 			(justify left bottom)
 		)
 		(uuid "347cd66f-a139-4a07-b3a3-b0f5cf05af5a")
-	)
-	(text "10K  = 100mA"
-		(exclude_from_sim no)
-		(at 68.58 154.94 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify left bottom)
-		)
-		(uuid "43865309-b1a7-4d86-9352-58bc65d129e8")
 	)
 	(text "RESET"
 		(exclude_from_sim no)
@@ -8347,17 +7166,6 @@
 		)
 		(uuid "572701b8-5804-4682-85bd-37e9bdff34a4")
 	)
-	(text "LIPO CHARGING"
-		(exclude_from_sim no)
-		(at 40.64 157.48 0)
-		(effects
-			(font
-				(size 2.54 2.159)
-			)
-			(justify left bottom)
-		)
-		(uuid "6afc73aa-572a-44e4-98d2-1a5aff626f1c")
-	)
 	(text "LED"
 		(exclude_from_sim no)
 		(at 137.16 154.94 0)
@@ -8368,17 +7176,6 @@
 			(justify left bottom)
 		)
 		(uuid "6db9b1a1-b90f-4160-84b7-bcff3d41547e")
-	)
-	(text "1.0K  = 1000mA"
-		(exclude_from_sim no)
-		(at 68.58 162.56 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify left bottom)
-		)
-		(uuid "72b5efaa-b87f-4e98-b1b7-923f2efcc7e7")
 	)
 	(text "USB TYPE C"
 		(exclude_from_sim no)
@@ -8413,28 +7210,6 @@
 		)
 		(uuid "bba79401-018a-459b-9df6-8358d718d498")
 	)
-	(text "2.0K  = 500mA"
-		(exclude_from_sim no)
-		(at 68.58 160.02 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify left bottom)
-		)
-		(uuid "bc88d872-df3a-42d2-955d-e85120440e37")
-	)
-	(text "LIPO MONITOR"
-		(exclude_from_sim no)
-		(at 96.52 190.5 0)
-		(effects
-			(font
-				(size 2.54 2.159)
-			)
-			(justify left bottom)
-		)
-		(uuid "bda8b47f-8ec7-46b0-aaf0-af0b473d0243")
-	)
 	(text "POWER AND FILTERING"
 		(exclude_from_sim no)
 		(at 60.96 27.94 0)
@@ -8446,7 +7221,7 @@
 		)
 		(uuid "e3ccbab4-d97f-4aca-8521-475e0cbc04d7")
 	)
-	(text "STEMMA QT &\nSECOND LDO"
+	(text "SECOND LDO"
 		(exclude_from_sim no)
 		(at 223.52 116.84 0)
 		(effects
@@ -8470,22 +7245,10 @@
 		(uuid "009b9921-d811-4782-a286-5a9f50753800")
 	)
 	(junction
-		(at 274.32 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0824cc9c-dc97-4dea-b07d-11a2db1f8e8e")
-	)
-	(junction
 		(at 30.48 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0d5303f8-7ca6-4482-84a3-6020ae4825ab")
-	)
-	(junction
-		(at 280.67 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "13b06716-bea9-47c3-8d36-3f655033e1d4")
 	)
 	(junction
 		(at 27.94 43.18)
@@ -8494,22 +7257,10 @@
 		(uuid "1c4c9917-d9f4-4925-9fb8-3a042da43259")
 	)
 	(junction
-		(at 27.94 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "20b99411-822b-488e-9de9-ea0026df149f")
-	)
-	(junction
 		(at 142.24 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "28b835fa-3034-481f-a09c-dbf972129b75")
-	)
-	(junction
-		(at 259.08 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "365d1c03-d108-4e6f-b161-e024ca346f3c")
 	)
 	(junction
 		(at 119.38 116.84)
@@ -8518,16 +7269,16 @@
 		(uuid "3753f0f2-9d1e-4b19-b540-2cfa635a3147")
 	)
 	(junction
-		(at 259.08 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "40cd83c7-153e-4d40-a91c-70b459575fa8")
-	)
-	(junction
 		(at 226.06 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "46833eb9-9533-433b-97db-e64d02517af9")
+	)
+	(junction
+		(at 248.92 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56675a2c-10fe-42df-8c5e-b5398964b261")
 	)
 	(junction
 		(at 48.26 43.18)
@@ -8536,76 +7287,16 @@
 		(uuid "61f31d29-af5b-42c3-80a6-34af3d92d403")
 	)
 	(junction
-		(at 255.27 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "64c14f76-4da9-49e4-b25d-a14e6b85ec7d")
-	)
-	(junction
-		(at 274.32 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6d653a27-742d-489e-840b-579e6f708cee")
-	)
-	(junction
 		(at 215.9 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6fece5a8-de99-43b1-870c-07b1835e105a")
 	)
 	(junction
-		(at 274.32 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "894824f2-8391-41b3-ae2b-c9866a7294ce")
-	)
-	(junction
-		(at 259.08 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8aac2f0a-865e-4e64-855e-8ce03ca23532")
-	)
-	(junction
-		(at 259.08 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8b335214-3d05-46aa-aa46-9d2e60a8efd0")
-	)
-	(junction
-		(at 78.74 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8bdfefc7-fb15-4559-8aac-6e9509394872")
-	)
-	(junction
-		(at 256.54 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8fab419b-16cf-467b-b335-644b3f65f436")
-	)
-	(junction
 		(at 218.44 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "902bbcc7-e674-41a5-9c2e-e6a0d42ec00c")
-	)
-	(junction
-		(at 99.06 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "951bfbdf-3d25-4faf-9d55-a21a2895a6b0")
-	)
-	(junction
-		(at 257.81 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9e2ac97a-2c37-4da7-a189-894da5ab6a01")
-	)
-	(junction
-		(at 73.66 180.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9ff9f50e-d162-4607-beb2-7a214289e597")
 	)
 	(junction
 		(at 119.38 134.62)
@@ -8624,12 +7315,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b36bce05-193d-4abb-820c-0b856ba0b260")
-	)
-	(junction
-		(at 259.08 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bac312ab-355f-4517-abf8-fe267d8078b8")
 	)
 	(junction
 		(at 205.74 63.5)
@@ -8656,34 +7341,10 @@
 		(uuid "da52ab8f-b2b0-4ae4-bb57-6ed877b7233a")
 	)
 	(junction
-		(at 259.08 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dcde3081-0b37-4c3f-8880-917ae3429c6c")
-	)
-	(junction
 		(at 43.18 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9a8505b-ca28-4562-b7e4-4e2e0f2480fc")
-	)
-	(junction
-		(at 248.92 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f232bbb3-cd26-4362-86a8-5d1d901b724f")
-	)
-	(junction
-		(at 259.08 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f3cc586f-d577-4097-acf3-1adcb1241f61")
-	)
-	(junction
-		(at 274.32 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f58fdbf3-945a-482f-b3ab-43104877d8db")
 	)
 	(wire
 		(pts
@@ -8707,16 +7368,6 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 170.18) (xy 106.68 170.18)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "03771f43-1cf6-4b7c-a448-22fa46c6fad1")
-	)
-	(wire
-		(pts
 			(xy 190.5 83.82) (xy 187.96 83.82)
 		)
 		(stroke
@@ -8734,26 +7385,6 @@
 			(type solid)
 		)
 		(uuid "0508045b-536f-44ee-a5e4-cfe156d7c1fe")
-	)
-	(wire
-		(pts
-			(xy 60.96 180.34) (xy 73.66 180.34)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "05a400e2-f8fe-465e-83f5-140355ee2b1f")
-	)
-	(wire
-		(pts
-			(xy 255.27 114.3) (xy 255.27 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "062a7843-3a69-445d-ada5-997d0c913310")
 	)
 	(wire
 		(pts
@@ -8807,16 +7438,6 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 133.35) (xy 259.08 133.35)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "105833c6-7b45-4947-b853-fd45924f38f5")
-	)
-	(wire
-		(pts
 			(xy 96.52 127) (xy 109.22 127)
 		)
 		(stroke
@@ -8824,16 +7445,6 @@
 			(type solid)
 		)
 		(uuid "10b359b4-8ec9-41bc-8fac-495cbb310aba")
-	)
-	(wire
-		(pts
-			(xy 274.32 111.76) (xy 274.32 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11b422df-3f98-4e10-b72a-d974df6b7fd0")
 	)
 	(wire
 		(pts
@@ -8887,16 +7498,6 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 110.49) (xy 274.32 107.95)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "13e4de62-4aef-40a4-9e08-e5bf341c3991")
-	)
-	(wire
-		(pts
 			(xy 233.68 68.58) (xy 215.9 68.58)
 		)
 		(stroke
@@ -8904,16 +7505,6 @@
 			(type solid)
 		)
 		(uuid "14118f9a-ab31-4171-89a1-551aef29473b")
-	)
-	(wire
-		(pts
-			(xy 73.66 180.34) (xy 73.66 182.88)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "157d7a05-733c-4c7a-b753-cd1cd8524cbb")
 	)
 	(wire
 		(pts
@@ -9007,36 +7598,6 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 109.22) (xy 259.08 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b121bee-17c5-4ad2-a640-3a6026a8941b")
-	)
-	(wire
-		(pts
-			(xy 116.84 43.18) (xy 116.84 50.8)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "1e41c4f2-fbb9-47ab-bca3-6591fc3e3e44")
-	)
-	(wire
-		(pts
-			(xy 38.1 38.1) (xy 27.94 38.1)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "1eca5716-a48b-42d9-84d7-ea2523d0b893")
-	)
-	(wire
-		(pts
 			(xy 96.52 106.68) (xy 109.22 106.68)
 		)
 		(stroke
@@ -9044,16 +7605,6 @@
 			(type solid)
 		)
 		(uuid "2032e8ff-e90c-4739-a32e-923ca1238759")
-	)
-	(wire
-		(pts
-			(xy 274.32 106.68) (xy 255.27 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "259d82c5-67e0-49f5-a16a-091f917fc239")
 	)
 	(wire
 		(pts
@@ -9087,26 +7638,6 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 128.27) (xy 259.08 127)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2a179b8d-ace4-45e4-b10f-e2c279f0862f")
-	)
-	(wire
-		(pts
-			(xy 259.08 116.84) (xy 259.08 115.57)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2a3ee343-7da6-4dbc-a223-7aafda3fefc8")
-	)
-	(wire
-		(pts
 			(xy 223.52 129.54) (xy 223.52 137.16)
 		)
 		(stroke
@@ -9137,16 +7668,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 172.72) (xy 78.74 170.18)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2dace3aa-1788-47a9-9856-a6b8a7153a36")
-	)
-	(wire
-		(pts
 			(xy 193.04 132.08) (xy 208.28 132.08)
 		)
 		(stroke
@@ -9167,16 +7688,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 175.26) (xy 63.5 175.26)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "32ea97e0-8426-4c6f-8990-5c43aa524e7c")
-	)
-	(wire
-		(pts
 			(xy 43.18 43.18) (xy 43.18 48.26)
 		)
 		(stroke
@@ -9184,16 +7695,6 @@
 			(type solid)
 		)
 		(uuid "337df337-69f8-4e9c-88f2-033db13353f9")
-	)
-	(wire
-		(pts
-			(xy 106.68 170.18) (xy 106.68 172.72)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "3419167c-f3c9-41ca-bc10-5939a284696e")
 	)
 	(wire
 		(pts
@@ -9217,6 +7718,16 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 129.54) (xy 248.92 130.81)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "37dd44a4-6bc6-4d30-828c-18e0a0d743df")
+	)
+	(wire
+		(pts
 			(xy 96.52 83.82) (xy 109.22 83.82)
 		)
 		(stroke
@@ -9234,16 +7745,6 @@
 			(type solid)
 		)
 		(uuid "386c802c-1b50-42c8-8711-ae17c1167617")
-	)
-	(wire
-		(pts
-			(xy 274.32 110.49) (xy 274.32 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38e21143-9e98-4361-85fd-af328f9b0af0")
 	)
 	(wire
 		(pts
@@ -9287,26 +7788,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 135.89) (xy 257.81 129.54)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "3f54bcc7-a4ec-4030-aef6-90278429956d")
-	)
-	(wire
-		(pts
-			(xy 280.67 109.22) (xy 280.67 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "401c7ff0-8873-4fcd-b5d9-b321d9bb239e")
-	)
-	(wire
-		(pts
 			(xy 142.24 43.18) (xy 142.24 48.26)
 		)
 		(stroke
@@ -9314,26 +7795,6 @@
 			(type solid)
 		)
 		(uuid "420e7a02-8e16-4266-9b5f-cac8c767abff")
-	)
-	(wire
-		(pts
-			(xy 259.08 115.57) (xy 259.08 114.3)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "425deefc-e274-4991-b447-dd74433b7939")
-	)
-	(wire
-		(pts
-			(xy 273.05 114.3) (xy 273.05 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "427324ce-445a-4377-8505-726e0736e8f0")
 	)
 	(wire
 		(pts
@@ -9347,23 +7808,13 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 111.76) (xy 256.54 114.3)
+			(xy 248.92 124.46) (xy 248.92 129.54)
 		)
 		(stroke
-			(width 0)
-			(type default)
+			(width 0.1524)
+			(type solid)
 		)
-		(uuid "43566cf0-d0d0-41ed-aee6-17180e52487d")
-	)
-	(wire
-		(pts
-			(xy 280.67 104.14) (xy 274.32 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45e23147-5dc9-4308-8e6c-c74033247a62")
+		(uuid "4356960d-58b3-4bdb-a9f3-6559796c8c73")
 	)
 	(wire
 		(pts
@@ -9384,16 +7835,6 @@
 			(type solid)
 		)
 		(uuid "46a1a3a1-0fd5-43c8-8cad-b3e72648e02e")
-	)
-	(wire
-		(pts
-			(xy 60.96 172.72) (xy 78.74 172.72)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4731ffcb-efcc-4747-aeaa-902d0c973087")
 	)
 	(wire
 		(pts
@@ -9427,36 +7868,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 135.89) (xy 273.05 135.89)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4cb98e8e-3c72-41db-a4cc-df6d47adf76b")
-	)
-	(wire
-		(pts
-			(xy 78.74 175.26) (xy 78.74 172.72)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4cba6811-c5d2-4218-a799-ad19165267e2")
-	)
-	(wire
-		(pts
-			(xy 60.96 177.8) (xy 60.96 180.34)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4e1bfda5-2666-415d-9981-9641dc29904c")
-	)
-	(wire
-		(pts
 			(xy 96.52 81.28) (xy 116.84 81.28)
 		)
 		(stroke
@@ -9484,16 +7895,6 @@
 			(type solid)
 		)
 		(uuid "4ff4ecf2-e282-4966-9d65-2f718e91fe96")
-	)
-	(wire
-		(pts
-			(xy 257.81 111.76) (xy 257.81 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "509e80a0-11a8-441a-89da-88e0b09bd1a1")
 	)
 	(wire
 		(pts
@@ -9547,16 +7948,6 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 115.57) (xy 259.08 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5797dd63-97f4-4634-b45a-00956306be98")
-	)
-	(wire
-		(pts
 			(xy 193.04 137.16) (xy 208.28 137.16)
 		)
 		(stroke
@@ -9577,16 +7968,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 111.76) (xy 257.81 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5df5f5bf-9289-4412-9e04-4385689ec46f")
-	)
-	(wire
-		(pts
 			(xy 203.2 71.12) (xy 203.2 73.66)
 		)
 		(stroke
@@ -9594,16 +7975,6 @@
 			(type solid)
 		)
 		(uuid "61197710-e72f-4733-b7d3-15212b9c6fea")
-	)
-	(wire
-		(pts
-			(xy 73.66 175.26) (xy 73.66 180.34)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "61e9ff05-2caf-4a92-8019-b646be9e0758")
 	)
 	(wire
 		(pts
@@ -9617,16 +7988,6 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 106.68) (xy 274.32 105.41)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "66f52e4a-bca8-4604-a2fb-4530a6973bfc")
-	)
-	(wire
-		(pts
 			(xy 35.56 104.14) (xy 45.72 104.14)
 		)
 		(stroke
@@ -9634,16 +7995,6 @@
 			(type solid)
 		)
 		(uuid "6722bb97-ed8e-475a-8342-20ca36fa6b16")
-	)
-	(wire
-		(pts
-			(xy 255.27 111.76) (xy 256.54 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b5d83e2-875b-4688-aab7-81745909be73")
 	)
 	(wire
 		(pts
@@ -9677,46 +8028,6 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 170.18) (xy 86.36 170.18)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "6dcb6649-e180-408e-ae7a-2f9eb8de97ed")
-	)
-	(wire
-		(pts
-			(xy 274.32 104.14) (xy 274.32 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f122283-e1cb-427b-9e90-983a134a8a44")
-	)
-	(wire
-		(pts
-			(xy 43.18 27.94) (xy 43.18 30.48)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "6f30c143-ec6a-4131-a300-98204201203d")
-	)
-	(wire
-		(pts
-			(xy 255.27 116.84) (xy 259.08 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7232851e-f4ef-47eb-9e52-6862d5cd98bd")
-	)
-	(wire
-		(pts
 			(xy 96.52 101.6) (xy 109.22 101.6)
 		)
 		(stroke
@@ -9744,16 +8055,6 @@
 			(type solid)
 		)
 		(uuid "755840c9-0bd1-45a9-b71a-c7588053e05b")
-	)
-	(wire
-		(pts
-			(xy 274.32 110.49) (xy 274.32 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7603b6ba-1d81-4747-b428-4a42e77fd920")
 	)
 	(wire
 		(pts
@@ -9827,16 +8128,6 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 106.68) (xy 280.67 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ee9850b-aefa-4968-bae1-677dfdb3fbd4")
-	)
-	(wire
-		(pts
 			(xy 165.1 149.86) (xy 180.34 149.86)
 		)
 		(stroke
@@ -9887,7 +8178,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 38.1) (xy 27.94 30.48)
+			(xy 27.94 30.48) (xy 27.94 43.18)
 		)
 		(stroke
 			(width 0.1524)
@@ -9915,16 +8206,6 @@
 		)
 		(uuid "878fb1d7-e39f-4448-8b2e-e5bed8a68642")
 	)
-	(wire
-		(pts
-			(xy 259.08 128.27) (xy 273.05 128.27)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "87bf4492-f42e-4f31-ba96-d0f58a44d95d")
-	)
 	(polyline
 		(pts
 			(xy 124.46 149.86) (xy 124.46 195.58)
@@ -9944,16 +8225,6 @@
 			(type solid)
 		)
 		(uuid "898123b9-d6c0-4300-bd6d-3e3ac096008d")
-	)
-	(wire
-		(pts
-			(xy 259.08 110.49) (xy 259.08 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d8c63fe-6805-4919-8949-3840ad27c012")
 	)
 	(wire
 		(pts
@@ -9997,16 +8268,6 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 114.3) (xy 273.05 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96f1e7a7-72dc-46a3-b5f8-464814dc06ac")
-	)
-	(wire
-		(pts
 			(xy 193.04 119.38) (xy 208.28 119.38)
 		)
 		(stroke
@@ -10024,16 +8285,6 @@
 			(type solid)
 		)
 		(uuid "9b215966-8c6e-42c9-9282-a2d96cb98ae3")
-	)
-	(wire
-		(pts
-			(xy 273.05 107.95) (xy 274.32 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b69de57-d575-464e-ae42-8287acf361ce")
 	)
 	(wire
 		(pts
@@ -10107,26 +8358,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 157.48) (xy 27.94 160.02)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "9f9ecb94-0e2f-4e99-a249-838481fc9d9f")
-	)
-	(wire
-		(pts
-			(xy 27.94 177.8) (xy 35.56 177.8)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a09ef292-ff4b-4fe1-b5d8-6eba7ead544e")
-	)
-	(wire
-		(pts
 			(xy 96.52 111.76) (xy 109.22 111.76)
 		)
 		(stroke
@@ -10144,16 +8375,6 @@
 			(type solid)
 		)
 		(uuid "a1e05081-e235-48dd-acc8-bf045f7e1c60")
-	)
-	(wire
-		(pts
-			(xy 274.32 106.68) (xy 274.32 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a27701c6-3276-48b4-911d-58929e25b588")
 	)
 	(wire
 		(pts
@@ -10197,26 +8418,6 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 127) (xy 251.46 127)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a72c0daf-8688-4fac-a5f3-fff93804b18c")
-	)
-	(wire
-		(pts
-			(xy 248.92 130.81) (xy 248.92 129.54)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a7536d48-b772-4e37-8f52-d6a650feb6f7")
-	)
-	(wire
-		(pts
 			(xy 215.9 68.58) (xy 215.9 71.12)
 		)
 		(stroke
@@ -10234,16 +8435,6 @@
 			(type solid)
 		)
 		(uuid "abc2f303-2995-4fa2-86c4-ffe3a5356909")
-	)
-	(wire
-		(pts
-			(xy 256.54 114.3) (xy 257.81 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac585d22-3e91-493f-ada5-67372f4f7b0d")
 	)
 	(wire
 		(pts
@@ -10294,16 +8485,6 @@
 			(type solid)
 		)
 		(uuid "af78ab80-1697-431c-8b7b-ae1a86011300")
-	)
-	(wire
-		(pts
-			(xy 274.32 107.95) (xy 274.32 106.68)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b0c2413c-c9bd-420a-944b-d4eb97b9d540")
 	)
 	(wire
 		(pts
@@ -10377,16 +8558,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 129.54) (xy 251.46 129.54)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "bba34b52-324e-42a5-aecd-989528c76325")
-	)
-	(wire
-		(pts
 			(xy 223.52 73.66) (xy 233.68 73.66)
 		)
 		(stroke
@@ -10414,16 +8585,6 @@
 			(type solid)
 		)
 		(uuid "beb7a031-f188-42aa-a21b-e0d8361732fb")
-	)
-	(wire
-		(pts
-			(xy 274.32 115.57) (xy 259.08 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf34c3e9-fe8d-4407-a362-1842d5341c2e")
 	)
 	(wire
 		(pts
@@ -10467,16 +8628,6 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 130.81) (xy 248.92 130.81)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "c583a5ee-d207-474f-89ed-90aebeaaa536")
-	)
-	(wire
-		(pts
 			(xy 142.24 119.38) (xy 142.24 124.46)
 		)
 		(stroke
@@ -10484,16 +8635,6 @@
 			(type solid)
 		)
 		(uuid "c5f1f921-96ae-4e6a-bdbf-1b6e1b31fcf2")
-	)
-	(wire
-		(pts
-			(xy 274.32 111.76) (xy 274.32 110.49)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "c6abd967-9293-4954-b3c0-618fe9de8482")
 	)
 	(wire
 		(pts
@@ -10514,36 +8655,6 @@
 			(type solid)
 		)
 		(uuid "c87a22f3-b0f8-4aa0-81b7-814cd6816ab7")
-	)
-	(wire
-		(pts
-			(xy 248.92 129.54) (xy 248.92 124.46)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "c8ac0afa-9db0-477c-b68b-ee101ed61a2c")
-	)
-	(wire
-		(pts
-			(xy 259.08 133.35) (xy 259.08 128.27)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "ca2ec017-52a6-4738-98e1-0a230eb3724a")
-	)
-	(wire
-		(pts
-			(xy 259.08 111.76) (xy 259.08 114.3)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "cc17b7f3-124d-4156-aac2-5c4511cddc43")
 	)
 	(wire
 		(pts
@@ -10597,16 +8708,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 58.42) (xy 116.84 53.34)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "d0c6f43c-c455-4dc4-86d0-2fecffb5cb1e")
-	)
-	(wire
-		(pts
 			(xy 193.04 144.78) (xy 208.28 144.78)
 		)
 		(stroke
@@ -10614,16 +8715,6 @@
 			(type solid)
 		)
 		(uuid "d117f242-bc23-4a36-bbc8-d22277cf8520")
-	)
-	(wire
-		(pts
-			(xy 27.94 43.18) (xy 27.94 38.1)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "d15c48e1-a0f9-432c-8251-82708462479a")
 	)
 	(polyline
 		(pts
@@ -10677,16 +8768,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 114.3) (xy 259.08 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0107672-699b-4b23-9208-77382c0b5d1f")
-	)
-	(wire
-		(pts
 			(xy 119.38 116.84) (xy 121.92 116.84)
 		)
 		(stroke
@@ -10714,16 +8795,6 @@
 			(type solid)
 		)
 		(uuid "e3f143c2-43b2-4759-9c43-7c1464d3fb3c")
-	)
-	(wire
-		(pts
-			(xy 35.56 172.72) (xy 35.56 157.48)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e6931d44-082e-422d-913b-60024856f088")
 	)
 	(wire
 		(pts
@@ -10767,16 +8838,6 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 111.76) (xy 274.32 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9e1ccdf-71a5-427f-b357-1727a8cbf4a1")
-	)
-	(wire
-		(pts
 			(xy 215.9 83.82) (xy 215.9 81.28)
 		)
 		(stroke
@@ -10784,16 +8845,6 @@
 			(type solid)
 		)
 		(uuid "ebd06c11-c333-4cd0-88da-1fd79c4e35e0")
-	)
-	(wire
-		(pts
-			(xy 274.32 110.49) (xy 259.08 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ecba64bc-5508-4497-9c6b-0d175e710dfa")
 	)
 	(wire
 		(pts
@@ -10867,16 +8918,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 40.64) (xy 43.18 43.18)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "f5fd201e-6573-407c-b558-9fa7be5a5e2f")
-	)
-	(wire
-		(pts
 			(xy 27.94 121.92) (xy 30.48 121.92)
 		)
 		(stroke
@@ -10887,16 +8928,6 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 111.76) (xy 259.08 111.76)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "fb7e37e3-52f2-44b6-940a-9bdc60b4084e")
-	)
-	(wire
-		(pts
 			(xy 27.94 45.72) (xy 27.94 43.18)
 		)
 		(stroke
@@ -10904,26 +8935,6 @@
 			(type solid)
 		)
 		(uuid "fc07c964-87db-4f08-9d9b-c12da6d9cc2a")
-	)
-	(wire
-		(pts
-			(xy 259.08 109.22) (xy 259.08 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd3eccb3-cda4-4953-89db-c66ce0fae239")
-	)
-	(wire
-		(pts
-			(xy 259.08 127) (xy 259.08 116.84)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "fd922599-d160-4a04-8cca-6f503d3e51fa")
 	)
 	(label "~{RESET}"
 		(at 205.74 111.76 0)
@@ -11075,16 +9086,6 @@
 		)
 		(uuid "18756eef-c509-44d1-8ef1-885415c3cf26")
 	)
-	(label "SDA"
-		(at 251.46 127 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "1c961c99-88fc-4ef1-9c4f-c451918fe5ad")
-	)
 	(label "IO33_A9"
 		(at 165.1 137.16 0)
 		(effects
@@ -11164,16 +9165,6 @@
 			(justify left bottom)
 		)
 		(uuid "3035e791-640e-46a2-9fbd-bc1918b78f55")
-	)
-	(label "A13_I35"
-		(at 86.36 170.18 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "3198ee09-1f8f-47c4-859e-710aef9c0048")
 	)
 	(label "NEOI2C_PWR"
 		(at 215.9 142.24 90)
@@ -11575,16 +9566,6 @@
 		)
 		(uuid "bb8629d6-5212-4b1c-8b6e-c61b33847ad5")
 	)
-	(label "SCL"
-		(at 251.46 129.54 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "c245c401-5cd0-4090-a2be-0bfc554e21ef")
-	)
 	(label "A2_I34"
 		(at 35.56 101.6 0)
 		(effects
@@ -11789,7 +9770,7 @@
 	)
 	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:MOUNTINGHOLE2.5")
-		(at 254 172.72 0)
+		(at 259.08 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11797,7 +9778,7 @@
 		(dnp no)
 		(uuid "00f5f55d-ceea-4358-b2f0-21e38524ca60")
 		(property "Reference" "U$?"
-			(at 254 172.72 0)
+			(at 259.08 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11806,7 +9787,7 @@
 			)
 		)
 		(property "Value" "MOUNTINGHOLE2.5"
-			(at 254 172.72 0)
+			(at 259.08 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11815,7 +9796,7 @@
 			)
 		)
 		(property "Footprint" "Adafruit ESP32 Feather V2:MOUNTINGHOLE_2.5_PLATED"
-			(at 254 172.72 0)
+			(at 259.08 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11824,7 +9805,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254 172.72 0)
+			(at 259.08 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11833,7 +9814,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 254 172.72 0)
+			(at 259.08 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11996,167 +9977,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "#U$47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:STEMMA_I2C_QTRA")
-		(at 280.67 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "03bd325d-a1b1-4ed6-a878-e07768b09bfa")
-		(property "Reference" "CONN?"
-			(at 276.86 103.505 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Value" "STEMMA_I2C_QTRA"
-			(at 276.86 119.38 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:JST_SH4_RA"
-			(at 280.67 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 280.67 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 280.67 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5b6cb86e-d8f2-44e8-af95-13bba3e3cf43")
-		)
-		(pin "2"
-			(uuid "dcbd6086-a880-4445-9a3a-3dad0e840d5a")
-		)
-		(pin "3"
-			(uuid "c781ea7d-5c61-4b17-8ffa-321ad583175b")
-		)
-		(pin "4"
-			(uuid "a500fa11-b2e8-447b-8e9b-6e9bef327d16")
-		)
-		(pin "MT1"
-			(uuid "71f8bcca-5f32-4938-80c5-fbeebe45a9d6")
-		)
-		(pin "MT2"
-			(uuid "219e89e3-b7be-4644-b3a4-50b9fef960ec")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "CONN?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "CONN1")
-					(unit 3)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:GND")
-		(at 78.74 185.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "08fe9ee2-f5ca-46a4-90da-0834740cb064")
-		(property "Reference" "#U$?"
-			(at 78.74 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 77.216 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 78.74 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d5ac665b-9321-4cb3-8c83-9ecf7e7a2c5b")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$33")
 					(unit 1)
 				)
 			)
@@ -12380,80 +10200,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:VBUS")
-		(at 27.94 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "105d48a8-132d-4a5b-a584-afdf67fa58f4")
-		(property "Reference" "#U$?"
-			(at 27.94 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBUS"
-			(at 26.416 153.924 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 27.94 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 27.94 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 27.94 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4227f10c-f71a-4d3d-80c7-a7057076d71b")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:FIDUCIAL_1MM")
-		(at 248.92 172.72 0)
+		(at 254 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12461,7 +10209,7 @@
 		(dnp no)
 		(uuid "11c325bd-c33e-477d-9122-7c5892b659f4")
 		(property "Reference" "U$?"
-			(at 248.92 172.72 0)
+			(at 254 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12470,7 +10218,7 @@
 			)
 		)
 		(property "Value" "FIDUCIAL_1MM"
-			(at 248.92 172.72 0)
+			(at 254 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12479,7 +10227,7 @@
 			)
 		)
 		(property "Footprint" "Adafruit ESP32 Feather V2:FIDUCIAL_1MM"
-			(at 248.92 172.72 0)
+			(at 254 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12488,7 +10236,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 248.92 172.72 0)
+			(at 254 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12497,7 +10245,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 248.92 172.72 0)
+			(at 254 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12515,81 +10263,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "U$34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:RESISTOR_0603_NOOUT")
-		(at 99.06 175.26 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1be9e9b4-2275-4569-887c-cddd31621fa7")
-		(property "Reference" "R?"
-			(at 96.52 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "200K"
-			(at 99.06 175.26 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-					(thickness 0.2032)
-					(bold yes)
-				)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:0603-NO"
-			(at 99.06 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 99.06 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f55a7ed9-9454-4580-bc62-6ef44f24c05a")
-		)
-		(pin "2"
-			(uuid "1ddc1793-09aa-4902-839c-2a4e7ab2de15")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "R?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -12743,223 +10416,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "#U$58")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:CAP_CERAMIC0603_NO")
-		(at 106.68 177.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1fa1a2e1-6122-4096-93eb-bb5423ef9102")
-		(property "Reference" "C?"
-			(at 104.39 176.55 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1uF"
-			(at 108.98 176.55 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:0603-NO"
-			(at 106.68 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "065cd8d3-6967-456e-b7d5-2c87b8cecafe")
-		)
-		(pin "2"
-			(uuid "43ecd57b-8397-4a4e-813c-8255b93be833")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "C?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:GND")
-		(at 116.84 60.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "206223b0-6feb-482c-a43b-4ca379448896")
-		(property "Reference" "#U$?"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 115.316 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1b9fb942-ca5b-44eb-8007-02cf4349c9f7")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:GND")
-		(at 99.06 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "213cb6f7-0a6e-412a-b53c-de7bbccb02fc")
-		(property "Reference" "#U$?"
-			(at 99.06 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 97.536 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 99.06 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 99.06 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c6bbdfe1-a36b-4960-be6a-409be6b13d3f")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$41")
 					(unit 1)
 				)
 			)
@@ -13526,87 +10982,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:CON_JST_PH_2PIN_MT_BATT")
-		(at 116.84 53.34 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2da38015-52c4-4a35-98a2-251a5c0703fd")
-		(property "Reference" "X?"
-			(at 122.428 53.34 90)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JSTPH"
-			(at 122.428 54.991 90)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:JSTPH2_BATT"
-			(at 116.84 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 116.84 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 116.84 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eaad5622-ef78-498a-9104-bf6ff68f8b56")
-		)
-		(pin "2"
-			(uuid "b7a54149-9947-4e53-95d7-379749930265")
-		)
-		(pin "NC1"
-			(uuid "0887645e-558a-43cf-a48f-1e4790b2e267")
-		)
-		(pin "NC2"
-			(uuid "c59cfd46-79b6-4048-ab49-efc4e562711b")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "X?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "X1")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:3.3V")
 		(at 106.68 45.72 0)
 		(unit 1)
@@ -13673,81 +11048,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "#U$52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:RESISTOR_0603_NOOUT")
-		(at 99.06 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "31c7faf3-a5fc-4dfb-8987-c932df3cd0c2")
-		(property "Reference" "R?"
-			(at 96.52 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "200K"
-			(at 99.06 165.1 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-					(thickness 0.2032)
-					(bold yes)
-				)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:0603-NO"
-			(at 99.06 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 99.06 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7a815d3f-9f79-4a14-bb3d-a67279f6b2d1")
-		)
-		(pin "2"
-			(uuid "1286cfea-130b-4354-8835-be65091994fd")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "R?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -13823,78 +11123,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:VBUS")
-		(at 35.56 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "368e5540-da19-4db6-8351-ab744ccd6fba")
-		(property "Reference" "#U$?"
-			(at 35.56 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBUS"
-			(at 34.036 153.924 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 35.56 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 35.56 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 35.56 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "db79a9a3-6416-4726-822d-385354d838e8")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$57")
 					(unit 1)
 				)
 			)
@@ -14283,78 +11511,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:VBAT")
-		(at 78.74 167.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "45cf0f0d-f00b-4d6a-82e9-1574a673d3c6")
-		(property "Reference" "#U$?"
-			(at 78.74 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBAT"
-			(at 77.216 166.624 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 78.74 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "35b18483-d9eb-4010-8e45-7388fe14a1f8")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:GND")
 		(at 76.2 60.96 0)
 		(unit 1)
@@ -14421,81 +11577,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "#U$29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:RESISTOR_0603_NOOUT")
-		(at 68.58 175.26 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "489bd09c-1bde-4d53-a6df-b0ed8fc4f303")
-		(property "Reference" "R?"
-			(at 68.58 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "5.1K"
-			(at 68.58 175.26 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-					(thickness 0.2032)
-					(bold yes)
-				)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:0603-NO"
-			(at 68.58 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 68.58 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 68.58 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cff2bea1-2384-4b5d-8411-e21e0bb04c55")
-		)
-		(pin "2"
-			(uuid "1935315f-e95d-46ce-83ad-4a18dd2e9e8b")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "R?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -15214,93 +12295,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:STEMMA_I2C_QTRA")
-		(at 273.05 133.35 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "651d04d4-8399-4121-835f-62459e2e6101")
-		(property "Reference" "CONN?"
-			(at 269.24 125.095 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "STEMMA_I2C_QTRA"
-			(at 273.05 139.7 90)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify right top)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:JST_SH4_RA"
-			(at 273.05 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 273.05 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 273.05 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "75b3b6b5-2a92-44b0-8669-9a364e1f4ae3")
-		)
-		(pin "2"
-			(uuid "39e6a43b-62ce-4da3-840e-bf3a80a9c304")
-		)
-		(pin "3"
-			(uuid "370a30ea-bb68-42b1-a184-904c9404a9a0")
-		)
-		(pin "4"
-			(uuid "254cd23e-3505-442b-b9c2-9a2f32ee163f")
-		)
-		(pin "MT1"
-			(uuid "17f3e760-e173-416d-af23-33ae87bfac23")
-		)
-		(pin "MT2"
-			(uuid "12d69e89-92fb-4605-b470-401d182b357f")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "CONN?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "CONN1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:RESISTOR_4PACK")
 		(at 210.82 68.58 180)
 		(unit 1)
@@ -15395,7 +12389,7 @@
 	)
 	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:MOUNTINGHOLE2.5")
-		(at 259.08 172.72 0)
+		(at 264.16 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15403,7 +12397,7 @@
 		(dnp no)
 		(uuid "66abd055-6efe-44aa-9808-9ffa696f637a")
 		(property "Reference" "U$?"
-			(at 259.08 172.72 0)
+			(at 264.16 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15412,7 +12406,7 @@
 			)
 		)
 		(property "Value" "MOUNTINGHOLE2.5"
-			(at 259.08 172.72 0)
+			(at 264.16 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15421,7 +12415,7 @@
 			)
 		)
 		(property "Footprint" "Adafruit ESP32 Feather V2:MOUNTINGHOLE_2.5_PLATED"
-			(at 259.08 172.72 0)
+			(at 264.16 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15430,7 +12424,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 259.08 172.72 0)
+			(at 264.16 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15439,7 +12433,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 259.08 172.72 0)
+			(at 264.16 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15457,85 +12451,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "U$32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:MOSFET-P")
-		(at 43.18 35.56 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "685b764d-be86-4f5f-abaa-35fcf6656a62")
-		(property "Reference" "Q?"
-			(at 45.974 35.941 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "DMG3415U"
-			(at 45.974 33.655 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:SOT23-R"
-			(at 43.18 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 43.18 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "490b996a-4eb7-4212-ad54-18fb67d27d0a")
-		)
-		(pin "2"
-			(uuid "fb766bbe-b86b-4c31-9ae5-2427c2998727")
-		)
-		(pin "3"
-			(uuid "82258c49-4ad7-46ad-b85f-85aa3ed703c1")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "Q?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -15680,81 +12595,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "#U$44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:RESISTOR_0603_NOOUT")
-		(at 27.94 172.72 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "71203ada-1927-45de-9897-4f6b81415f5a")
-		(property "Reference" "R?"
-			(at 30.48 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "5.1K"
-			(at 27.94 172.72 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-					(thickness 0.2032)
-					(bold yes)
-				)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:0603-NO"
-			(at 27.94 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 27.94 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 27.94 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "43104d28-d655-4c58-a6ad-2a2f4a04ad47")
-		)
-		(pin "2"
-			(uuid "ccbefbb4-31a6-46ce-8c49-9a67721f358f")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "R?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -15978,7 +12818,7 @@
 	)
 	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:FIDUCIAL_1MM")
-		(at 246.38 172.72 0)
+		(at 251.46 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15986,7 +12826,7 @@
 		(dnp no)
 		(uuid "773f453f-4ad2-4aec-a128-75aebdc4a455")
 		(property "Reference" "U$?"
-			(at 246.38 172.72 0)
+			(at 251.46 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15995,7 +12835,7 @@
 			)
 		)
 		(property "Value" "FIDUCIAL_1MM"
-			(at 246.38 172.72 0)
+			(at 251.46 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16004,7 +12844,7 @@
 			)
 		)
 		(property "Footprint" "Adafruit ESP32 Feather V2:FIDUCIAL_1MM"
-			(at 246.38 172.72 0)
+			(at 251.46 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16013,7 +12853,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 172.72 0)
+			(at 251.46 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16022,7 +12862,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 246.38 172.72 0)
+			(at 251.46 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16431,79 +13271,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
-		(at 78.74 180.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8554a7ec-e3d9-4e71-9f1d-b283d53d6be6")
-		(property "Reference" "C?"
-			(at 76.45 179.09 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10µF"
-			(at 81.04 179.09 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:0805-NO"
-			(at 78.74 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 78.74 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9d9a7331-78c6-4cec-ad80-56d57d848dd9")
-		)
-		(pin "2"
-			(uuid "ff474109-0b0a-45a6-b4d3-0e94054a91d0")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "C?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:3.3V")
 		(at 208.28 109.22 0)
 		(mirror y)
@@ -16577,78 +13344,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:VBAT")
-		(at 116.84 40.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8a71476e-312d-48a6-8ec9-1caede6cba7b")
-		(property "Reference" "#U$?"
-			(at 116.84 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBAT"
-			(at 115.316 39.624 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 116.84 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 116.84 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 116.84 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "24425d4c-a269-44fe-b155-09399c9f5dea")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:supply1_371_GND")
 		(at 208.28 116.84 0)
 		(mirror x)
@@ -16716,162 +13411,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "#GND4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:VBAT")
-		(at 99.06 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8b0030c4-b876-4ee3-9428-3153a828b236")
-		(property "Reference" "#U$?"
-			(at 99.06 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBAT"
-			(at 97.536 156.464 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 99.06 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 99.06 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e74be197-f7b0-4293-890d-e290e0f0eb40")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:MCP73831/2")
-		(at 48.26 175.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "93bd95b6-aa46-4232-841e-5064b5a644ae")
-		(property "Reference" "U?"
-			(at 38.1 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "MCP73831T-2ACI/OT"
-			(at 38.1 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:SOT23-5"
-			(at 48.26 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 48.26 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "53179350-0a86-4f40-9706-b1e0a93e597f")
-		)
-		(pin "1"
-			(uuid "4440eb4e-d549-4f00-9569-9303e0c47998")
-		)
-		(pin "3"
-			(uuid "dc981195-01f4-4b50-b252-0d1df9377f66")
-		)
-		(pin "5"
-			(uuid "84f7448e-f770-477c-9a4d-ef3bb2c54c84")
-		)
-		(pin "2"
-			(uuid "10b926cf-ed13-41d1-84b9-6afd27e4548a")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "U?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -17796,95 +14335,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:STEMMA_I2C_QTRA")
-		(at 255.27 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9bf4620c-ffff-4ae3-a862-96390527b93c")
-		(property "Reference" "CONN?"
-			(at 251.46 103.505 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Value" "STEMMA_I2C_QTRA"
-			(at 251.46 119.38 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:JST_SH4_RA"
-			(at 255.27 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 255.27 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 255.27 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f211dbaa-5947-4986-86ce-5e6c1038d019")
-		)
-		(pin "2"
-			(uuid "85e94066-255e-48a6-b63a-f7599909cbf3")
-		)
-		(pin "3"
-			(uuid "c7ac8d95-8336-4f46-8208-cc918de4c6a9")
-		)
-		(pin "4"
-			(uuid "63eda919-fae7-47cc-b51a-2cbf770010ef")
-		)
-		(pin "MT1"
-			(uuid "e9a5d223-7324-4d2a-897b-3255355d8cee")
-		)
-		(pin "MT2"
-			(uuid "fa89dce1-8ebe-42a6-b1fd-73d58eec1b17")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "CONN?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "CONN1")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:GND")
 		(at 106.68 60.96 0)
 		(unit 1)
@@ -18216,78 +14666,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "JP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:VBAT")
-		(at 43.18 25.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a50f5072-6a64-447e-ac80-5d7531a770c5")
-		(property "Reference" "#U$?"
-			(at 43.18 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBAT"
-			(at 41.656 24.384 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 43.18 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 43.18 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7338341f-d65f-48b8-92ef-d3cca5485f74")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$21")
 					(unit 1)
 				)
 			)
@@ -18677,87 +15055,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:CON_JST_PH_2PIN_MT_BATT")
-		(at 116.84 53.34 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c14ef39e-01de-4c54-ac04-9184f6f16ff0")
-		(property "Reference" "X?"
-			(at 122.428 53.34 90)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JSTPH"
-			(at 122.428 54.991 90)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:JSTPH2_BATT"
-			(at 116.84 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 116.84 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 116.84 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab8211e8-1cc9-4921-9610-ec42223af759")
-		)
-		(pin "2"
-			(uuid "0bbe4afc-fc6c-491d-803d-792eabaf4cc5")
-		)
-		(pin "NC1"
-			(uuid "4bb2ea0c-643f-410d-a33f-7807bf1e549a")
-		)
-		(pin "NC2"
-			(uuid "032db787-c6db-47fa-9ba2-f6296ac944d1")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "X?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "X1")
-					(unit 3)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:TPB1,27")
 		(at 175.26 66.04 90)
 		(unit 1)
@@ -18989,78 +15286,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "#U$11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:GND")
-		(at 252.73 111.76 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "da7dc0af-f8a2-4a94-850f-cc2af4a491bd")
-		(property "Reference" "#U$?"
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 250.19 110.236 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "109704fc-af23-4460-8d37-290a36e8d9e8")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$46")
 					(unit 1)
 				)
 			)
@@ -19582,78 +15807,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:GND")
-		(at 106.68 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e8817d3e-2d27-4257-8c83-f2a0b7c8714d")
-		(property "Reference" "#U$?"
-			(at 106.68 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 105.156 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6d52b3d4-0d96-4b35-9af4-37d36c93694f")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit ESP32 Feather V2-eagle-import:CAP_CERAMIC0603_NO")
 		(at 152.4 53.34 0)
 		(unit 1)
@@ -19721,160 +15874,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:LED0603_NOOUTLINE")
-		(at 27.94 165.1 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ee9308a1-f28a-4a4b-98dc-dd59a71cb354")
-		(property "Reference" "CHG?"
-			(at 32.385 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-			)
-		)
-		(property "Value" "ORANGE"
-			(at 25.146 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:CHIPLED_0603_NOOUTLINE"
-			(at 27.94 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 27.94 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 27.94 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "A"
-			(uuid "c4096eff-c99c-45da-b2d4-fa0ff3fd7f08")
-		)
-		(pin "C"
-			(uuid "988ebdab-230a-4a6c-9041-ebf3734c6446")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "CHG?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "CHG0")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:CON_JST_PH_2PIN_MT_BATT")
-		(at 114.3 50.8 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f4791945-8f10-4c63-821d-8516c90a00bb")
-		(property "Reference" "X?"
-			(at 120.65 56.515 90)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "JSTPH"
-			(at 120.65 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit ESP32 Feather V2:JSTPH2_BATT"
-			(at 114.3 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 114.3 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 114.3 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3b5980af-7560-4c34-b05b-f20ac2eb8103")
-		)
-		(pin "2"
-			(uuid "38fd620d-58b9-4be2-a3f8-64e6d9621943")
-		)
-		(pin "NC1"
-			(uuid "e8c75a99-0f3b-402d-95fd-f9b2b4af9d8b")
-		)
-		(pin "NC2"
-			(uuid "fcbb2c43-a7fb-426d-9121-855cc743153e")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "X?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "X1")
 					(unit 1)
 				)
 			)
@@ -20128,78 +16127,6 @@
 			(project ""
 				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
 					(reference "JP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit ESP32 Feather V2-eagle-import:GND")
-		(at 73.66 185.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f9c85377-3fd9-4481-a2d2-b2c1712049df")
-		(property "Reference" "#U$?"
-			(at 73.66 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 72.136 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 73.66 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 73.66 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 73.66 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9043380f-2f48-4993-9370-b063119d4342")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/2705a0ac-79ac-447c-b1e8-7db1fcae82d2"
-					(reference "#U$?")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/c6356563-dbe1-4fb7-9494-45babdbd888f"
-					(reference "#U$36")
 					(unit 1)
 				)
 			)

@@ -11,7 +11,7 @@
 		(company "Kingdom Metrics")
 	)
 	(lib_symbols)
-	(text "Notes:\nLiPo charging is not necessary\n12V - 2A barrel power supply comes with camera with pigtail... (Check regulator)\nMax enclosure size is 15cm x 8 cm. Will be 3D printed\nWill be built by hand with hot air gun. 0804 or 0603 passives\nDo we want the headers to be available?\nDo we want to remove/set the jumpers?\nUse uFL antenna connector or RP-SMA for the 2.4G antenna\nKeep LED from ESP board. Put in position to be visible outside enclosure (light pipe?)"
+	(text "Notes:\n12V - 2A barrel power supply comes with camera with pigtail...\nMax enclosure size is 15cm x 8 cm. Will be 3D printed\nWill be built by hand with hot air gun. 0804 or 0603 passives\nDo we want the headers to be available?\nDo we want to remove/set the jumpers?\nKeep LED from ESP board. Put in position to be visible outside enclosure (light pipe?)\nDoes a bootloader need to be loaded on to the ESP before placing on board?"
 		(exclude_from_sim no)
 		(at 22.606 25.146 0)
 		(effects
@@ -22,7 +22,7 @@
 		)
 		(uuid "0c7133d6-4316-4fbb-ba58-9e1c829e1544")
 	)
-	(text "Todo:\nClean sheets\nFix annotation\nFind where uFL is supposed to be\nCreate Global labels\nRemove MS? designators and extraneous connectors\nCheck footprints"
+	(text "Todo:\nClean sheets\nFix annotation\nCreate Global labels\nMove to a single !RESET switch on ESP page. Remove from other pages.  \nRemove MS? designators and extraneous connectors\nConfirm we want MicroSD\nadd power connector (get details), use switch for power selection\nFind out if we can remove Second LDO\nCheck regulator\nCheck footprints"
 		(exclude_from_sim no)
 		(at 207.772 27.94 0)
 		(effects
