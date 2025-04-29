@@ -3516,293 +3516,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "adalogger featherwing-eagle-import:SWITCH_TACT_SMT4.6X2.8"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at -2.54 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at -2.54 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "adalogger featherwing:BTN_KMR2_4.6X2.8"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "SMT Tact Switches\n\n• 6x6mm - Digikey: P12940SCT-ND\n• KMR2 (4.6x2.8mm) - Digikey: 401-1426-1-ND\n• EVQ-PQHB55 - Light Touch, 160GF (4.5x4.5mm) - Digikey: P8090SCT-ND\n• KMT0 - KMT021 NGJ LHS (etc.) IP68/Waterproof - Digikey: CKN10289CT-ND"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "SWITCH_TACT_SMT4.6X2.8_1_0"
-				(circle
-					(center -2.54 0)
-					(radius 0.127)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy 1.905 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy -2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 4.445) (xy -1.905 3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 4.445) (xy -1.905 4.445)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 4.445) (xy 0 3.175)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 1.905)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 0.635)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 4.445) (xy 0 4.445)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 4.445) (xy 1.905 3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 0)
-					(radius 0.127)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "P"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "A"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 2.54)
-					(name "P1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "A'"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "B"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "S1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "B'"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(junction
 		(at 116.84 114.3)
@@ -3967,12 +3680,6 @@
 		(uuid "a680a5ce-9a71-4223-ae3d-16595e3532eb")
 	)
 	(junction
-		(at 81.28 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7a9aa10-7221-42b0-a228-7f22107e4066")
-	)
-	(junction
 		(at 121.92 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3995,12 +3702,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d496bf14-98ed-4be0-898e-85bec18544c2")
-	)
-	(junction
-		(at 91.44 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d89f6c48-1774-46b4-a480-7cf558745460")
 	)
 	(junction
 		(at 137.16 91.44)
@@ -4290,16 +3991,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 162.56) (xy 91.44 165.1)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "6a09d399-214f-47e5-9a1a-f9af518183a4")
-	)
-	(wire
-		(pts
 			(xy 193.04 99.06) (xy 180.34 99.06)
 		)
 		(stroke
@@ -4367,16 +4058,6 @@
 			(type solid)
 		)
 		(uuid "76009478-9223-4f0e-806a-03cabfbf6f1c")
-	)
-	(wire
-		(pts
-			(xy 81.28 162.56) (xy 81.28 165.1)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "87c44ff3-d6c5-40ec-8fec-68b01732e95c")
 	)
 	(wire
 		(pts
@@ -4467,16 +4148,6 @@
 			(type solid)
 		)
 		(uuid "b6d79ac2-1408-4390-a2ca-c39f5462a9fe")
-	)
-	(wire
-		(pts
-			(xy 91.44 165.1) (xy 99.06 165.1)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b9aa1e06-32b1-4eda-bbcc-afbb5c491da5")
 	)
 	(wire
 		(pts
@@ -5670,79 +5341,6 @@
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/9d55f160-1827-4393-a821-340d91310655"
 					(reference "#GND09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "adalogger featherwing-eagle-import:GND")
-		(at 78.74 165.1 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "36081832-250f-4026-8c3d-809c443a9730")
-		(property "Reference" "#GND05"
-			(at 78.74 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 76.2 167.64 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 78.74 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cff23f32-c367-491c-8b20-7f0f59bb3880")
-		)
-		(instances
-			(project ""
-				(path "/513b855f-afaa-458f-b216-457a372f9dfa"
-					(reference "#GND2")
-					(unit 1)
-				)
-			)
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/9d55f160-1827-4393-a821-340d91310655"
-					(reference "#GND05")
 					(unit 1)
 				)
 			)
@@ -7141,87 +6739,6 @@
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/9d55f160-1827-4393-a821-340d91310655"
 					(reference "JP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "adalogger featherwing-eagle-import:SWITCH_TACT_SMT4.6X2.8")
-		(at 86.36 162.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "df69da7f-3a6b-4716-9d54-65e140a8725c")
-		(property "Reference" "SW4"
-			(at 83.82 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "KMR2"
-			(at 83.82 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "adalogger featherwing:BTN_KMR2_4.6X2.8"
-			(at 86.36 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 86.36 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "A"
-			(uuid "994a1886-aa57-4f61-bbde-120e128e964f")
-		)
-		(pin "A'"
-			(uuid "5b44f3e5-bcb4-4c0a-abc1-b906c86a4eb1")
-		)
-		(pin "B"
-			(uuid "0e502728-0a25-485c-81d8-6527afa5811b")
-		)
-		(pin "B'"
-			(uuid "e77f36de-35b3-474f-8422-9790a3582dc1")
-		)
-		(instances
-			(project ""
-				(path "/513b855f-afaa-458f-b216-457a372f9dfa"
-					(reference "SW1")
-					(unit 1)
-				)
-			)
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/9d55f160-1827-4393-a821-340d91310655"
-					(reference "SW4")
 					(unit 1)
 				)
 			)

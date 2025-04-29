@@ -3938,293 +3938,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Adafruit Ethernet FeatherWing-eagle-import:SWITCH_TACT_SMT4.6X2.8"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at -2.54 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at -2.54 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.0795)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "Adafruit Ethernet FeatherWing:BTN_KMR2_4.6X2.8"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "SMT Tact Switches\n\n• 6x6mm - Digikey: P12940SCT-ND\n• KMR2 (4.6x2.8mm) - Digikey: 401-1426-1-ND\n• EVQ-PQHB55 - Light Touch, 160GF (4.5x4.5mm) - Digikey: P8090SCT-ND\n• KMT0 - KMT021 NGJ LHS (etc.) IP68/Waterproof - Digikey: CKN10289CT-ND"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "SWITCH_TACT_SMT4.6X2.8_1_0"
-				(circle
-					(center -2.54 0)
-					(radius 0.127)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy 1.905 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy -2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 4.445) (xy -1.905 3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 4.445) (xy -1.905 4.445)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 4.445) (xy 0 3.175)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 1.905)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 0.635)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 4.445) (xy 0 4.445)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 4.445) (xy 1.905 3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 0)
-					(radius 0.127)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "P"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "A"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 2.54)
-					(name "P1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "A'"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "B"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "S1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "B'"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Adafruit Ethernet FeatherWing-eagle-import:WIZNET_W5500"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5287,12 +5000,6 @@
 		(uuid "2c84d386-c263-45b6-bfc7-9f0096b12fab")
 	)
 	(junction
-		(at 154.94 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2ef07e70-f80e-4855-bf8f-33506196e918")
-	)
-	(junction
 		(at 154.94 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5389,12 +5096,6 @@
 		(uuid "6f4d9f11-622a-495d-9c80-b7394e6cfeee")
 	)
 	(junction
-		(at 127 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "700a5115-2d6c-4219-842e-82037d8ce8ce")
-	)
-	(junction
 		(at 139.7 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5411,12 +5112,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c1227e2f-e646-4fee-99fb-5ad1a0ec4dbb")
-	)
-	(junction
-		(at 137.16 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c235da6a-edab-48d7-9a39-28d4fe9aa7f9")
 	)
 	(junction
 		(at 213.36 132.08)
@@ -6542,16 +6237,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 111.76) (xy 137.16 114.3)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "81b5f3ab-4cee-4233-8097-4d43be2f1cf8")
-	)
-	(wire
-		(pts
 			(xy 213.36 121.92) (xy 208.28 121.92)
 		)
 		(stroke
@@ -6599,16 +6284,6 @@
 			(type solid)
 		)
 		(uuid "8a884753-487d-4736-a0a7-d26efca2e5d9")
-	)
-	(wire
-		(pts
-			(xy 149.86 111.76) (xy 149.86 106.68)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "8b852fb1-44e6-4875-9f68-2b6581f606e8")
 	)
 	(wire
 		(pts
@@ -6992,16 +6667,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 111.76) (xy 127 114.3)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b925aef1-65e3-4136-a5a6-6d14ce7f2ad6")
-	)
-	(wire
-		(pts
 			(xy 154.94 86.36) (xy 154.94 88.9)
 		)
 		(stroke
@@ -7019,16 +6684,6 @@
 			(type solid)
 		)
 		(uuid "baadbc41-f94b-4687-b184-6bef9d8a7554")
-	)
-	(wire
-		(pts
-			(xy 137.16 111.76) (xy 149.86 111.76)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "bbd4f47d-e9a9-4834-ba5c-412ab0e92e80")
 	)
 	(wire
 		(pts
@@ -7209,16 +6864,6 @@
 			(type solid)
 		)
 		(uuid "d388226c-fde1-415b-986e-977103b1f436")
-	)
-	(wire
-		(pts
-			(xy 149.86 106.68) (xy 154.94 106.68)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "d3c474b2-1e83-4ada-b21d-a4f776896a9e")
 	)
 	(wire
 		(pts
@@ -11444,78 +11089,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Adafruit Ethernet FeatherWing-eagle-import:GND")
-		(at 127 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "75b5f0d1-8ca6-430a-beec-a7545ea9ca41")
-		(property "Reference" "#U$069"
-			(at 127 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 125.476 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 127 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 127 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "66be5fec-dfef-40e5-883b-7e4933976331")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$069")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/f8d80f0f-4921-491b-a5b2-8dada69d1b2b"
-					(reference "#U$47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Adafruit Ethernet FeatherWing-eagle-import:AGND")
 		(at 88.9 154.94 0)
 		(unit 1)
@@ -14335,87 +13908,6 @@
 			(project ""
 				(path "/f8d80f0f-4921-491b-a5b2-8dada69d1b2b"
 					(reference "#U$26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Adafruit Ethernet FeatherWing-eagle-import:SWITCH_TACT_SMT4.6X2.8")
-		(at 132.08 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e9037c3a-77a1-4857-9f6a-0a4d87553b60")
-		(property "Reference" "SW3"
-			(at 129.54 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "KMR2"
-			(at 129.54 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.0795)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Adafruit Ethernet FeatherWing:BTN_KMR2_4.6X2.8"
-			(at 132.08 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 132.08 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "A"
-			(uuid "86284a17-cc78-4278-919c-5875f5bf4ee0")
-		)
-		(pin "A'"
-			(uuid "f2f36f84-bbf8-453c-a6e6-8bc54ca25689")
-		)
-		(pin "B"
-			(uuid "f2cfe1ea-0222-4e39-8807-7a7cb9c97735")
-		)
-		(pin "B'"
-			(uuid "bda0e66f-e662-4423-bad8-df6e9f01318d")
-		)
-		(instances
-			(project "Genesis"
-				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "SW3")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/f8d80f0f-4921-491b-a5b2-8dada69d1b2b"
-					(reference "SW1")
 					(unit 1)
 				)
 			)

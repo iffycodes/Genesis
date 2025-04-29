@@ -22,7 +22,7 @@
 		)
 		(uuid "0c7133d6-4316-4fbb-ba58-9e1c829e1544")
 	)
-	(text "Todo:\nCreate Global labels\nMove to a single !RESET switch on ESP page. Remove from other pages.  \nRemove MS? designators and extraneous connectors\nConfirm we want MicroSD\nadd power connector (get details), use switch for power selection\nFind out if we can remove Second LDO\nCheck regulator\nCheck footprints"
+	(text "Todo:\nCreate Global labels\nMove to a single !RESET switch on ESP page. Remove from other pages.\nRename MISO nets on Ethernet page because of buffer \nRemove MS? designators and extraneous connectors\nConfirm we want MicroSD\nadd power connector (get details), use switch for power selection\nAdd test points\nGenerate BOM\nFind out if we can remove Second LDO\nCheck regulator\nCheck footprints (Export/Import symbol libraries from originals)"
 		(exclude_from_sim no)
 		(at 207.772 27.94 0)
 		(effects
