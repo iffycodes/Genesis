@@ -7819,7 +7819,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0135d033-e315-4655-b73a-ec1d44a68e86")
-		(property "Reference" "MS?"
+		(property "Reference" "MS1"
 			(at 170.18 101.6 0)
 			(effects
 				(font
@@ -7951,7 +7951,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "MS?")
+					(reference "MS1")
 					(unit 1)
 				)
 			)
@@ -7972,7 +7972,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "01bbc864-9e6a-476c-9d8e-316cbf61522c")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$046"
 			(at 55.88 93.98 0)
 			(effects
 				(font
@@ -8023,7 +8023,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$046")
 					(unit 1)
 				)
 			)
@@ -8044,7 +8044,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03aae300-e579-4506-b84b-12be360b93e8")
-		(property "Reference" "FID?"
+		(property "Reference" "FID3"
 			(at 271.78 157.48 0)
 			(effects
 				(font
@@ -8092,7 +8092,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "FID?")
+					(reference "FID3")
 					(unit 1)
 				)
 			)
@@ -8113,7 +8113,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "04640c96-18c9-48f7-b786-d0b86e5ab19a")
-		(property "Reference" "C?"
+		(property "Reference" "C16"
 			(at 78.99 146.07 90)
 			(effects
 				(font
@@ -8165,7 +8165,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -8186,7 +8186,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "04c07954-ba35-45f4-9626-470d3cf93c61")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$080"
 			(at 231.14 55.88 0)
 			(effects
 				(font
@@ -8237,7 +8237,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$080")
 					(unit 1)
 				)
 			)
@@ -8258,7 +8258,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0c15495e-15d1-4918-b8f3-146d8242076d")
-		(property "Reference" "R?"
+		(property "Reference" "R14"
 			(at 35.56 88.9 0)
 			(effects
 				(font
@@ -8312,7 +8312,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -8333,7 +8333,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0f893d47-17d3-4ce9-9af0-c3e28a164b3f")
-		(property "Reference" "FB?"
+		(property "Reference" "FB1"
 			(at 118.11 160.655 0)
 			(effects
 				(font
@@ -8387,7 +8387,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "FB?")
+					(reference "FB1")
 					(unit 1)
 				)
 			)
@@ -8408,7 +8408,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14e0c599-8a99-4983-ba46-14163d81e1a2")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$073"
 			(at 147.32 119.38 0)
 			(effects
 				(font
@@ -8459,7 +8459,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$073")
 					(unit 1)
 				)
 			)
@@ -8480,7 +8480,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1ecedce1-d668-44d9-9c83-a4a26dd94129")
-		(property "Reference" "R?"
+		(property "Reference" "R19"
 			(at 86.36 38.1 0)
 			(effects
 				(font
@@ -8534,7 +8534,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -8555,7 +8555,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f7b78e5-27aa-460c-9266-c9836df3c689")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$041"
 			(at 33.02 142.24 0)
 			(effects
 				(font
@@ -8606,7 +8606,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$041")
 					(unit 1)
 				)
 			)
@@ -8627,7 +8627,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "255d684a-e8ca-4781-84a5-d71e49f1d2e6")
-		(property "Reference" "C?"
+		(property "Reference" "C14"
 			(at 38.35 105.43 90)
 			(effects
 				(font
@@ -8679,7 +8679,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -8700,7 +8700,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "28ef1aed-9a1e-4852-a40c-b30e77ae321c")
-		(property "Reference" "SJ?"
+		(property "Reference" "SJ1"
 			(at 76.2 43.18 0)
 			(effects
 				(font
@@ -8755,7 +8755,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "SJ?")
+					(reference "SJ1")
 					(unit 1)
 				)
 			)
@@ -8776,7 +8776,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2d7d6049-2d7a-4aa6-a412-8d02aabdefe5")
-		(property "Reference" "C?"
+		(property "Reference" "C15"
 			(at 43.43 133.37 90)
 			(effects
 				(font
@@ -8828,7 +8828,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -8849,7 +8849,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2df73ed9-7b53-4a0b-9dcb-664be2dd1a98")
-		(property "Reference" "C?"
+		(property "Reference" "C24"
 			(at 221.23 100.35 90)
 			(effects
 				(font
@@ -8901,7 +8901,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -8922,7 +8922,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e9735ce-30c1-46f3-8383-30c96aef1a00")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$078"
 			(at 226.06 30.48 0)
 			(effects
 				(font
@@ -8973,7 +8973,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$078")
 					(unit 1)
 				)
 			)
@@ -8994,7 +8994,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2ec4bf22-83c8-4d7b-9d97-4d869cf69813")
-		(property "Reference" "IC?"
+		(property "Reference" "IC2"
 			(at 55.88 157.48 0)
 			(effects
 				(font
@@ -9057,7 +9057,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "IC?")
+					(reference "IC2")
 					(unit 1)
 				)
 			)
@@ -9078,7 +9078,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3127d488-9d30-4871-b9c6-9795d2215717")
-		(property "Reference" "C?"
+		(property "Reference" "C23"
 			(at 224.77 71.37 90)
 			(effects
 				(font
@@ -9130,7 +9130,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -9151,7 +9151,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31514ce8-5a20-4aed-84d8-4ad1d9f9565c")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$079"
 			(at 226.06 66.04 0)
 			(effects
 				(font
@@ -9202,7 +9202,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$079")
 					(unit 1)
 				)
 			)
@@ -9223,7 +9223,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "34cc03f3-be45-4892-95c5-ef19a8fcab47")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$047"
 			(at 63.5 157.48 0)
 			(effects
 				(font
@@ -9274,7 +9274,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$047")
 					(unit 1)
 				)
 			)
@@ -9295,7 +9295,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "39d8faa4-5a8c-4f87-b863-286c6e812a01")
-		(property "Reference" "R?"
+		(property "Reference" "R28"
 			(at 233.68 119.38 0)
 			(effects
 				(font
@@ -9349,7 +9349,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -9370,7 +9370,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3b06337c-b577-4e13-b7a8-b3ec90509b47")
-		(property "Reference" "FID?"
+		(property "Reference" "FID1"
 			(at 266.7 157.48 0)
 			(effects
 				(font
@@ -9418,7 +9418,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "FID?")
+					(reference "FID1")
 					(unit 1)
 				)
 			)
@@ -9439,7 +9439,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3b70e552-9972-46b3-86ea-5c890047c499")
-		(property "Reference" "C?"
+		(property "Reference" "C25"
 			(at 223.77 59.71 90)
 			(effects
 				(font
@@ -9491,7 +9491,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -9512,7 +9512,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3c383a90-f7c5-4b5e-a7b4-a4bfe5acd976")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$066"
 			(at 121.92 96.52 0)
 			(effects
 				(font
@@ -9563,7 +9563,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$066")
 					(unit 1)
 				)
 			)
@@ -9584,7 +9584,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "432b2a35-0131-4620-ace6-a77137f94fa2")
-		(property "Reference" "C?"
+		(property "Reference" "C18"
 			(at 129.79 82.57 90)
 			(effects
 				(font
@@ -9636,7 +9636,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -9657,7 +9657,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44cdb38e-98a5-4ca2-ab61-335e3e4ef956")
-		(property "Reference" "U$?"
+		(property "Reference" "U$5"
 			(at 63.5 58.42 0)
 			(effects
 				(font
@@ -9849,7 +9849,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "U$?")
+					(reference "U$5")
 					(unit 1)
 				)
 			)
@@ -9870,7 +9870,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48710c24-c9c4-44b1-9993-6142be5586bf")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$081"
 			(at 231.14 63.5 0)
 			(effects
 				(font
@@ -9921,7 +9921,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$081")
 					(unit 1)
 				)
 			)
@@ -9942,7 +9942,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49d90feb-832d-44a5-a000-381919ea3135")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$051"
 			(at 81.28 154.94 0)
 			(effects
 				(font
@@ -9993,7 +9993,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$051")
 					(unit 1)
 				)
 			)
@@ -10014,7 +10014,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4dff1053-0f59-40e9-9399-1277f346adcc")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$077"
 			(at 223.52 109.22 0)
 			(effects
 				(font
@@ -10065,7 +10065,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$077")
 					(unit 1)
 				)
 			)
@@ -10086,7 +10086,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4f0a373a-486e-453f-9345-63941b72f515")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$064"
 			(at 119.38 58.42 0)
 			(effects
 				(font
@@ -10137,7 +10137,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$064")
 					(unit 1)
 				)
 			)
@@ -10158,7 +10158,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5056f6cc-409c-47ac-87db-7aacab589114")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$052"
 			(at 83.82 27.94 0)
 			(effects
 				(font
@@ -10209,7 +10209,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$052")
 					(unit 1)
 				)
 			)
@@ -10230,7 +10230,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5075d4c2-d7e2-4196-b757-f36a0ca4120f")
-		(property "Reference" "R?"
+		(property "Reference" "R24"
 			(at 215.9 86.36 0)
 			(effects
 				(font
@@ -10284,7 +10284,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -10305,7 +10305,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "52e9e3ee-5269-46de-b4e9-b0befb456dc7")
-		(property "Reference" "JP?"
+		(property "Reference" "JP4"
 			(at 209.55 113.665 0)
 			(effects
 				(font
@@ -10381,7 +10381,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "JP?")
+					(reference "JP4")
 					(unit 1)
 				)
 			)
@@ -10402,7 +10402,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5cb15340-4523-4e81-879f-b3e7f58bf6e3")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$042"
 			(at 35.56 177.8 0)
 			(effects
 				(font
@@ -10453,7 +10453,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$042")
 					(unit 1)
 				)
 			)
@@ -10474,7 +10474,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e7ecba5-9478-4612-a0d5-898db9504544")
-		(property "Reference" "C?"
+		(property "Reference" "C13"
 			(at 30.73 133.37 90)
 			(effects
 				(font
@@ -10526,7 +10526,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -10547,7 +10547,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "601394e1-967a-4366-ba66-74e9bbe116e4")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$057"
 			(at 96.52 124.46 0)
 			(effects
 				(font
@@ -10598,7 +10598,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$057")
 					(unit 1)
 				)
 			)
@@ -10619,7 +10619,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "61db06a2-85c6-4f4d-8ff4-88fcc34feca2")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$067"
 			(at 124.46 157.48 0)
 			(effects
 				(font
@@ -10670,7 +10670,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$067")
 					(unit 1)
 				)
 			)
@@ -10691,7 +10691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6247cbdd-140f-4c43-b8bf-b7ed4e88fb9b")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$062"
 			(at 114.3 157.48 0)
 			(effects
 				(font
@@ -10742,7 +10742,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$062")
 					(unit 1)
 				)
 			)
@@ -10763,7 +10763,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6251f770-3762-425e-8cd1-be05e82aeaeb")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$076"
 			(at 220.98 30.48 0)
 			(effects
 				(font
@@ -10814,7 +10814,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$076")
 					(unit 1)
 				)
 			)
@@ -10835,7 +10835,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "630a98f0-7b71-41a2-be2d-cbe2393252ed")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$075"
 			(at 215.9 30.48 0)
 			(effects
 				(font
@@ -10886,7 +10886,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$075")
 					(unit 1)
 				)
 			)
@@ -10907,7 +10907,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "636461d0-9a87-4854-9c32-32cb61b612ab")
-		(property "Reference" "SJ?"
+		(property "Reference" "SJ2"
 			(at 88.9 43.18 0)
 			(effects
 				(font
@@ -10962,7 +10962,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "SJ?")
+					(reference "SJ2")
 					(unit 1)
 				)
 			)
@@ -10983,7 +10983,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "65d04397-cc52-41fb-af70-796440aa3fb1")
-		(property "Reference" "C?"
+		(property "Reference" "C26"
 			(at 234.93 76.45 90)
 			(effects
 				(font
@@ -11035,7 +11035,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -11056,7 +11056,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6cbfb496-3d7f-4394-bb55-98c8071935b6")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$068"
 			(at 124.46 175.26 0)
 			(effects
 				(font
@@ -11107,7 +11107,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$068")
 					(unit 1)
 				)
 			)
@@ -11128,7 +11128,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "70fa3f3f-53d2-4d78-81eb-d7be8014650c")
-		(property "Reference" "X?"
+		(property "Reference" "X3"
 			(at 254 44.704 0)
 			(effects
 				(font
@@ -11212,7 +11212,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "X?")
+					(reference "X3")
 					(unit 1)
 				)
 			)
@@ -11233,7 +11233,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "72a20a4b-f7c6-4719-bad1-5210070a5935")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$053"
 			(at 88.9 33.02 0)
 			(effects
 				(font
@@ -11284,7 +11284,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$053")
 					(unit 1)
 				)
 			)
@@ -11305,7 +11305,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "73359fbb-bec6-4340-af91-e75b9659f28a")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$045"
 			(at 45.72 142.24 0)
 			(effects
 				(font
@@ -11356,7 +11356,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$045")
 					(unit 1)
 				)
 			)
@@ -11377,7 +11377,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "73dd9224-bb12-417f-b27b-8a1ddbfda3eb")
-		(property "Reference" "R?"
+		(property "Reference" "R22"
 			(at 134.62 96.52 0)
 			(effects
 				(font
@@ -11431,7 +11431,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -11452,7 +11452,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "75b5f0d1-8ca6-430a-beec-a7545ea9ca41")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$069"
 			(at 127 116.84 0)
 			(effects
 				(font
@@ -11503,7 +11503,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$069")
 					(unit 1)
 				)
 			)
@@ -11524,7 +11524,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "77f51717-da94-4734-9246-917b7a5941f8")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$055"
 			(at 88.9 154.94 0)
 			(effects
 				(font
@@ -11575,7 +11575,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$055")
 					(unit 1)
 				)
 			)
@@ -11596,7 +11596,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "77fe6229-2b01-42a2-acee-2f07497e94ff")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$082"
 			(at 236.22 111.76 0)
 			(effects
 				(font
@@ -11647,7 +11647,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$082")
 					(unit 1)
 				)
 			)
@@ -11668,7 +11668,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b73cbdc-06bf-43da-a1c2-80e1ec64eac2")
-		(property "Reference" "R?"
+		(property "Reference" "R26"
 			(at 220.98 86.36 0)
 			(effects
 				(font
@@ -11722,7 +11722,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -11743,7 +11743,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ba6503f-82c7-4195-891c-55e5f8344213")
-		(property "Reference" "R?"
+		(property "Reference" "R17"
 			(at 55.88 121.92 0)
 			(effects
 				(font
@@ -11797,7 +11797,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -11818,7 +11818,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7cd460da-a671-4e14-9c15-a1362abf71fb")
-		(property "Reference" "C?"
+		(property "Reference" "C21"
 			(at 152.65 82.57 90)
 			(effects
 				(font
@@ -11870,7 +11870,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -11891,7 +11891,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7d27dce1-9f24-4593-a5cf-0df8419988f7")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$048"
 			(at 66.04 27.94 0)
 			(effects
 				(font
@@ -11942,7 +11942,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$048")
 					(unit 1)
 				)
 			)
@@ -11963,7 +11963,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "842ba1e1-48d1-4d80-87df-6ec5d0bf967d")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$074"
 			(at 162.56 99.06 0)
 			(effects
 				(font
@@ -12014,7 +12014,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$074")
 					(unit 1)
 				)
 			)
@@ -12035,7 +12035,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "87e3729b-62d0-4431-ac40-00813032f466")
-		(property "Reference" "SJ?"
+		(property "Reference" "SJ4"
 			(at 228.6 134.62 0)
 			(effects
 				(font
@@ -12090,7 +12090,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "SJ?")
+					(reference "SJ4")
 					(unit 1)
 				)
 			)
@@ -12111,7 +12111,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "88ee5f48-59a1-4d14-af80-e5e5764af909")
-		(property "Reference" "C?"
+		(property "Reference" "C12"
 			(at 28.19 105.43 90)
 			(effects
 				(font
@@ -12163,7 +12163,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -12184,7 +12184,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "898e69ac-55d0-4e85-b0c7-3867f56f9101")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$056"
 			(at 96.52 27.94 0)
 			(effects
 				(font
@@ -12235,7 +12235,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$056")
 					(unit 1)
 				)
 			)
@@ -12256,7 +12256,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8e7fb32e-5a5e-4ed5-a558-c33d4c5a0a62")
-		(property "Reference" "C?"
+		(property "Reference" "C19"
 			(at 137.41 82.57 90)
 			(effects
 				(font
@@ -12308,7 +12308,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -12329,7 +12329,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9025fe37-aae2-4671-803a-c6a06b6bd735")
-		(property "Reference" "R?"
+		(property "Reference" "R21"
 			(at 111.76 38.1 0)
 			(effects
 				(font
@@ -12383,7 +12383,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -12404,7 +12404,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f9e602c-6dd7-4fff-95ae-400a4bd467ef")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$059"
 			(at 101.6 33.02 0)
 			(effects
 				(font
@@ -12455,7 +12455,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$059")
 					(unit 1)
 				)
 			)
@@ -12476,7 +12476,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a34e102a-1132-4f93-94d8-52eeb20d1f04")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$040"
 			(at 33.02 121.92 0)
 			(effects
 				(font
@@ -12527,7 +12527,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$040")
 					(unit 1)
 				)
 			)
@@ -12548,7 +12548,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a41c18fc-12d9-442f-89d6-aa761e3a4777")
-		(property "Reference" "SJ?"
+		(property "Reference" "SJ3"
 			(at 101.6 43.18 0)
 			(effects
 				(font
@@ -12603,7 +12603,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "SJ?")
+					(reference "SJ3")
 					(unit 1)
 				)
 			)
@@ -12624,7 +12624,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a446a4e9-8a02-479d-a568-bea205b8cf93")
-		(property "Reference" "C?"
+		(property "Reference" "C22"
 			(at 160.27 82.57 90)
 			(effects
 				(font
@@ -12676,7 +12676,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -12697,7 +12697,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ad14ec4e-ba10-49b8-b403-49275df97bb9")
-		(property "Reference" "JP?"
+		(property "Reference" "JP3"
 			(at 158.75 140.335 0)
 			(effects
 				(font
@@ -12785,7 +12785,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "JP?")
+					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -12806,7 +12806,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aedea0ca-3bda-4bb5-8d56-ac4b3fff9572")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$058"
 			(at 99.06 142.24 0)
 			(effects
 				(font
@@ -12857,7 +12857,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$058")
 					(unit 1)
 				)
 			)
@@ -12878,7 +12878,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b63c6dad-4e24-415c-9276-8db2aaf86691")
-		(property "Reference" "R?"
+		(property "Reference" "R25"
 			(at 218.44 40.64 0)
 			(effects
 				(font
@@ -12932,7 +12932,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -12953,7 +12953,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bb46f7c4-68be-4feb-af93-559af9a49309")
-		(property "Reference" "Y?"
+		(property "Reference" "Y1"
 			(at 33.02 96.52 0)
 			(effects
 				(font
@@ -13007,7 +13007,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "Y?")
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -13028,7 +13028,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bb7f1b0c-c363-4e07-b573-c26728609377")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$070"
 			(at 142.24 104.14 0)
 			(effects
 				(font
@@ -13079,7 +13079,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$070")
 					(unit 1)
 				)
 			)
@@ -13100,7 +13100,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bccf3617-2b6a-445f-a588-390116549ef2")
-		(property "Reference" "R?"
+		(property "Reference" "R15"
 			(at 43.18 68.58 0)
 			(effects
 				(font
@@ -13154,7 +13154,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -13175,7 +13175,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bcead78f-b12b-4171-9852-3f093e384e48")
-		(property "Reference" "R?"
+		(property "Reference" "R23"
 			(at 213.36 40.64 0)
 			(effects
 				(font
@@ -13229,7 +13229,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -13250,7 +13250,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bedfcc14-e1da-4ac2-a024-db5c117f1e4c")
-		(property "Reference" "FB?"
+		(property "Reference" "FB2"
 			(at 118.11 168.275 0)
 			(effects
 				(font
@@ -13304,7 +13304,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "FB?")
+					(reference "FB2")
 					(unit 1)
 				)
 			)
@@ -13325,7 +13325,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2ea5734-a708-482b-bb13-663e661dd336")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$054"
 			(at 88.9 124.46 0)
 			(effects
 				(font
@@ -13376,7 +13376,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$054")
 					(unit 1)
 				)
 			)
@@ -13397,7 +13397,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c7309720-5f1d-4a25-acd2-792040cf4e6e")
-		(property "Reference" "R?"
+		(property "Reference" "R18"
 			(at 68.58 38.1 0)
 			(effects
 				(font
@@ -13451,7 +13451,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -13472,7 +13472,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c94ce384-3081-4340-a34a-9e83b6fb6fc5")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$050"
 			(at 78.74 124.46 0)
 			(effects
 				(font
@@ -13523,7 +13523,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$050")
 					(unit 1)
 				)
 			)
@@ -13544,7 +13544,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cdf64186-3436-44f6-9bc7-a99bee8784f5")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$083"
 			(at 248.92 91.44 0)
 			(effects
 				(font
@@ -13595,7 +13595,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$083")
 					(unit 1)
 				)
 			)
@@ -13616,7 +13616,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ce860f5f-a974-4d0b-a5ad-03734b552c5e")
-		(property "Reference" "R?"
+		(property "Reference" "R27"
 			(at 223.52 40.64 0)
 			(effects
 				(font
@@ -13670,7 +13670,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -13691,7 +13691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cf217de3-4cac-4e40-8dfd-9903a630bbfb")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$039"
 			(at 30.48 114.3 0)
 			(effects
 				(font
@@ -13742,7 +13742,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$039")
 					(unit 1)
 				)
 			)
@@ -13763,7 +13763,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d1f3457b-a284-4778-aff1-5acea3767c04")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$043"
 			(at 40.64 114.3 0)
 			(effects
 				(font
@@ -13814,7 +13814,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$043")
 					(unit 1)
 				)
 			)
@@ -13835,7 +13835,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d3f3e85e-7600-4482-95c5-d4edfbbdea6b")
-		(property "Reference" "R?"
+		(property "Reference" "R16"
 			(at 48.26 111.76 0)
 			(effects
 				(font
@@ -13889,7 +13889,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -13910,7 +13910,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dca25b1d-2db0-4ae8-ac7b-e78e466a406b")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$072"
 			(at 147.32 93.98 0)
 			(effects
 				(font
@@ -13961,7 +13961,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$072")
 					(unit 1)
 				)
 			)
@@ -13982,7 +13982,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de763526-dd33-41ad-865c-37393342e785")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$065"
 			(at 121.92 81.28 0)
 			(effects
 				(font
@@ -14033,7 +14033,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$065")
 					(unit 1)
 				)
 			)
@@ -14054,7 +14054,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "df38641b-53d9-4f5c-8ec3-53748a002a7f")
-		(property "Reference" "JP?"
+		(property "Reference" "JP5"
 			(at 250.19 121.285 0)
 			(effects
 				(font
@@ -14112,7 +14112,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "JP?")
+					(reference "JP5")
 					(unit 1)
 				)
 			)
@@ -14133,7 +14133,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e0c6fe5c-f7a7-495c-861b-39ef54d14a67")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$063"
 			(at 114.3 175.26 0)
 			(effects
 				(font
@@ -14184,7 +14184,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$063")
 					(unit 1)
 				)
 			)
@@ -14205,7 +14205,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e4e12ec4-4155-4039-8912-82b470c97abd")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$044"
 			(at 45.72 58.42 0)
 			(effects
 				(font
@@ -14256,7 +14256,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$044")
 					(unit 1)
 				)
 			)
@@ -14277,7 +14277,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e571033d-c1d9-4c0a-80b7-84c51a664c56")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$060"
 			(at 101.6 124.46 0)
 			(effects
 				(font
@@ -14328,7 +14328,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$060")
 					(unit 1)
 				)
 			)
@@ -14349,7 +14349,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9037c3a-77a1-4857-9f6a-0a4d87553b60")
-		(property "Reference" "SW?"
+		(property "Reference" "SW3"
 			(at 129.54 105.41 0)
 			(effects
 				(font
@@ -14409,7 +14409,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "SW?")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -14430,7 +14430,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f14a1460-344a-43a1-b88c-f55f8fda0af2")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$071"
 			(at 147.32 71.12 0)
 			(effects
 				(font
@@ -14481,7 +14481,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$071")
 					(unit 1)
 				)
 			)
@@ -14502,7 +14502,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5a702a3-9963-4474-83af-b54a42af6d1c")
-		(property "Reference" "C?"
+		(property "Reference" "C20"
 			(at 145.03 82.57 90)
 			(effects
 				(font
@@ -14554,7 +14554,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -14575,7 +14575,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f60c1f2f-4c18-41e7-85b4-7579a9593b02")
-		(property "Reference" "C?"
+		(property "Reference" "C17"
 			(at 86.61 146.07 90)
 			(effects
 				(font
@@ -14627,7 +14627,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "C?")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -14648,7 +14648,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f672009b-83d9-49f3-8542-0acd5b082e19")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$061"
 			(at 109.22 27.94 0)
 			(effects
 				(font
@@ -14699,7 +14699,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$061")
 					(unit 1)
 				)
 			)
@@ -14720,7 +14720,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f6acfa60-ae3f-4a3f-9895-fc79925a3bd1")
-		(property "Reference" "R?"
+		(property "Reference" "R20"
 			(at 99.06 38.1 0)
 			(effects
 				(font
@@ -14774,7 +14774,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "R?")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -14795,7 +14795,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc075a02-9ff3-4828-b114-667130087a9a")
-		(property "Reference" "#U$?"
+		(property "Reference" "#U$049"
 			(at 76.2 33.02 0)
 			(effects
 				(font
@@ -14846,7 +14846,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "#U$?")
+					(reference "#U$049")
 					(unit 1)
 				)
 			)
@@ -14867,7 +14867,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd04346f-4d7d-40e1-8caa-4809a59dd43b")
-		(property "Reference" "FID?"
+		(property "Reference" "FID2"
 			(at 269.24 157.48 0)
 			(effects
 				(font
@@ -14915,7 +14915,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "FID?")
+					(reference "FID2")
 					(unit 1)
 				)
 			)
