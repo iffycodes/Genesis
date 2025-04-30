@@ -5237,7 +5237,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 81.28) (xy 50.8 81.28)
+			(xy 60.96 81.28) (xy 48.26 81.28)
 		)
 		(stroke
 			(width 0.1524)
@@ -6077,7 +6077,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 167.64) (xy 38.1 167.64)
+			(xy 25.4 167.64) (xy 38.1 167.64)
 		)
 		(stroke
 			(width 0.1524)
@@ -7255,7 +7255,7 @@
 		)
 		(uuid "609df4ab-f484-4366-909a-66d184f5d1f2")
 	)
-	(label "MISO_MCU"
+	(label "MISO"
 		(at 129.54 137.16 0)
 		(effects
 			(font
@@ -7265,7 +7265,7 @@
 		)
 		(uuid "6175a218-7462-4ff6-9f90-c2020f045214")
 	)
-	(label "MISO_MCU"
+	(label "MISO"
 		(at 60.96 172.72 0)
 		(effects
 			(font
@@ -7415,8 +7415,8 @@
 		)
 		(uuid "db40c4e1-4fa7-4701-a1d1-19636aeddede")
 	)
-	(label "MISO"
-		(at 50.8 81.28 0)
+	(label "MISO_W5500"
+		(at 48.26 81.28 0)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -7435,8 +7435,8 @@
 		)
 		(uuid "ee140813-15b1-4108-afe4-1195692c4ae6")
 	)
-	(label "MISO"
-		(at 30.48 167.64 0)
+	(label "MISO_W5500"
+		(at 25.4 167.64 0)
 		(effects
 			(font
 				(size 1.2446 1.2446)
