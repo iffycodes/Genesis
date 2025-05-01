@@ -10,3 +10,4 @@ Genesis Board design
 - Add initial annotation.
 - Rename +3V3 net on RTC page to match 3.3V global net name.
 - Rename MISO nets on Ethernet page so global MISO net can go to buffer
+- Remove second LDO. Power Neopixel from main regulator.

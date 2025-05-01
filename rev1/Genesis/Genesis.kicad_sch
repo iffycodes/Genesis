@@ -22,7 +22,7 @@
 		)
 		(uuid "0c7133d6-4316-4fbb-ba58-9e1c829e1544")
 	)
-	(text "Todo:\nCreate Global labels, remove The header/model from other pages.\nadd power connector details and LM2575, use switch for power selection\nAdd test points\nGenerate BOM\nFind out if we can remove Second LDO\nCheck footprints (Export/Import symbol libraries from originals)"
+	(text "Todo:\nCreate Global labels, remove The header/model from other pages.\nadd power connector details and LM2575, use switch for power selection\nAdd test points\nGenerate BOM\nCheck footprints (Export/Import symbol libraries from originals)"
 		(exclude_from_sim no)
 		(at 207.772 27.94 0)
 		(effects
