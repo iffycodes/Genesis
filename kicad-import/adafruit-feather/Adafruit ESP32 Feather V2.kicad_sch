@@ -9981,7 +9981,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "0d8c0469-5895-4bd1-b149-20d8cb1aae6a")
+		(uuid "0d8c0469-5895-4bd1-b149-20d8cb1aae6b")
 		(property "Reference" "#U$09"
 			(at 76.2 35.56 0)
 			(effects
@@ -10028,7 +10028,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "30934238-85ae-420a-897c-4ab2f21707fb")
+			(uuid "30934238-85ae-420a-897c-4ab2f21707fc")
 		)
 		(instances
 			(project "Genesis"
