@@ -4942,7 +4942,7 @@
 		)
 		(uuid "4df6ecef-d336-4e53-8e25-c9cdc1281813")
 	)
-	(text "Check out out JP5 is used"
+	(text "Check out how JP5 is used"
 		(exclude_from_sim no)
 		(at 251.46 147.574 0)
 		(effects

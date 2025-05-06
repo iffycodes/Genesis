@@ -148,7 +148,7 @@
 	)
 	(sheet
 		(at 100.33 90.17)
-		(size 19.05 21.59)
+		(size 19.05 24.13)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -172,7 +172,7 @@
 			)
 		)
 		(property "Sheetfile" "../../kicad-import/adafruit-ethernet/Adafruit Ethernet FeatherWing.kicad_sch"
-			(at 100.33 112.3446 0)
+			(at 100.33 114.8846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
