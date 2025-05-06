@@ -7144,6 +7144,16 @@
 		)
 		(uuid "347cd66f-a139-4a07-b3a3-b0f5cf05af5a")
 	)
+	(text "Ask about GPIO0, which is part of reset circuit."
+		(exclude_from_sim no)
+		(at 56.896 164.084 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "481e1e11-2988-416f-a2e7-3665e6d501b0")
+	)
 	(text "RESET"
 		(exclude_from_sim no)
 		(at 154.94 27.94 0)

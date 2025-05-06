@@ -33,6 +33,26 @@
 		)
 		(uuid "67e682d4-8871-47cd-8cd9-4f15e04556ae")
 	)
+	(wire
+		(pts
+			(xy 69.85 69.85) (xy 100.33 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24320003-7f0a-4b0a-817e-fefd2c14d650")
+	)
+	(wire
+		(pts
+			(xy 69.85 72.39) (xy 100.33 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d4ec292-def3-4da6-8b88-2e0310d3f699")
+	)
 	(sheet
 		(at 52.07 66.04)
 		(size 17.78 20.32)
@@ -127,7 +147,7 @@
 		)
 	)
 	(sheet
-		(at 105.41 58.42)
+		(at 100.33 90.17)
 		(size 19.05 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -143,7 +163,7 @@
 		)
 		(uuid "34668455-eab9-44a0-a7b2-48f3dfe2249d")
 		(property "Sheetname" "Ethernet"
-			(at 105.41 57.7084 0)
+			(at 100.33 89.4584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -152,7 +172,7 @@
 			)
 		)
 		(property "Sheetfile" "../../kicad-import/adafruit-ethernet/Adafruit Ethernet FeatherWing.kicad_sch"
-			(at 105.41 80.5946 0)
+			(at 100.33 112.3446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -170,7 +190,7 @@
 		)
 	)
 	(sheet
-		(at 105.41 87.63)
+		(at 100.33 55.88)
 		(size 19.05 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -186,7 +206,7 @@
 		)
 		(uuid "9d55f160-1827-4393-a821-340d91310655")
 		(property "Sheetname" "RTC"
-			(at 105.41 86.9184 0)
+			(at 100.33 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -195,13 +215,33 @@
 			)
 		)
 		(property "Sheetfile" "../../kicad-import/adafruit-datalogger/adalogger featherwing.kicad_sch"
-			(at 105.41 111.0746 0)
+			(at 100.33 79.3246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 				(hide yes)
+			)
+		)
+		(pin "I2C_SDA" input
+			(at 100.33 69.85 180)
+			(uuid "27c4de09-a963-4c72-9c96-98125fd77b54")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SCL" input
+			(at 100.33 72.39 180)
+			(uuid "16544efc-9d0b-4da2-a479-801f4fa4eda9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
