@@ -34,8 +34,8 @@
 		(uuid "67e682d4-8871-47cd-8cd9-4f15e04556ae")
 	)
 	(sheet
-		(at 66.04 62.23)
-		(size 12.7 3.81)
+		(at 52.07 66.04)
+		(size 17.78 20.32)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -50,7 +50,7 @@
 		)
 		(uuid "2705a0ac-79ac-447c-b1e8-7db1fcae82d2")
 		(property "Sheetname" "ESP"
-			(at 66.04 61.5184 0)
+			(at 52.07 65.3284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59,12 +59,63 @@
 			)
 		)
 		(property "Sheetfile" "../../kicad-import/adafruit-feather/Adafruit ESP32 Feather V2.kicad_sch"
-			(at 66.04 66.6246 0)
+			(at 52.07 86.9446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "I2C_SDA" bidirectional
+			(at 69.85 69.85 0)
+			(uuid "867cf73f-6b49-484d-8ed8-944b556dab43")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_MOSI" output
+			(at 69.85 78.74 0)
+			(uuid "f1659b65-b844-477c-bfe8-bd0dde997111")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SCL" bidirectional
+			(at 69.85 72.39 0)
+			(uuid "dd93f564-f278-47af-835b-e37d97f26438")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_MISO" input
+			(at 69.85 81.28 0)
+			(uuid "211dab91-621b-4ff3-9490-5d506794a406")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_SCK" output
+			(at 69.85 83.82 0)
+			(uuid "f0acf502-83a3-4107-b8bb-2694cc231414")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -76,8 +127,8 @@
 		)
 	)
 	(sheet
-		(at 66.04 72.39)
-		(size 12.7 3.81)
+		(at 105.41 58.42)
+		(size 19.05 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -92,7 +143,7 @@
 		)
 		(uuid "34668455-eab9-44a0-a7b2-48f3dfe2249d")
 		(property "Sheetname" "Ethernet"
-			(at 66.04 71.6784 0)
+			(at 105.41 57.7084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -101,12 +152,13 @@
 			)
 		)
 		(property "Sheetfile" "../../kicad-import/adafruit-ethernet/Adafruit Ethernet FeatherWing.kicad_sch"
-			(at 66.04 76.7846 0)
+			(at 105.41 80.5946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(instances
@@ -118,8 +170,8 @@
 		)
 	)
 	(sheet
-		(at 66.04 82.55)
-		(size 12.7 3.81)
+		(at 105.41 87.63)
+		(size 19.05 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -134,7 +186,7 @@
 		)
 		(uuid "9d55f160-1827-4393-a821-340d91310655")
 		(property "Sheetname" "RTC"
-			(at 66.04 81.8384 0)
+			(at 105.41 86.9184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -143,12 +195,13 @@
 			)
 		)
 		(property "Sheetfile" "../../kicad-import/adafruit-datalogger/adalogger featherwing.kicad_sch"
-			(at 66.04 86.9446 0)
+			(at 105.41 111.0746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(instances

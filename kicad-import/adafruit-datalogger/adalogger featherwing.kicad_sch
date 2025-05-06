@@ -3517,6 +3517,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Check out how INT1 and SDCS1 jumpers are used."
+		(exclude_from_sim no)
+		(at 191.008 62.738 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "babbda93-df86-4725-ac66-3f8476d10f51")
+	)
 	(junction
 		(at 116.84 114.3)
 		(diameter 0)
@@ -3594,6 +3604,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b7b095d-e608-4a63-93e7-c427602e0030")
+	)
+	(junction
+		(at 134.62 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d2f4a5e-d4a4-43a1-811d-1ccaa2212277")
 	)
 	(junction
 		(at 104.14 35.56)
@@ -3704,7 +3720,13 @@
 		(uuid "d496bf14-98ed-4be0-898e-85bec18544c2")
 	)
 	(junction
-		(at 137.16 91.44)
+		(at 148.59 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e6f5bd7a-bf08-4250-8637-c353e1a14c16")
+	)
+	(junction
+		(at 137.16 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "edf2082c-c93d-459b-940c-ba9e0b0e1312")
@@ -3758,6 +3780,16 @@
 			(type solid)
 		)
 		(uuid "0947c3ec-d230-45b8-8b20-880ac889f3a5")
+	)
+	(wire
+		(pts
+			(xy 148.59 80.01) (xy 137.16 80.01)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0a14ec62-983f-4230-afb5-ba61beca6443")
 	)
 	(wire
 		(pts
@@ -3831,6 +3863,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 114.3) (xy 137.16 114.3)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1ffb7af1-acd6-4084-b82a-4887fac31480")
+	)
+	(wire
+		(pts
 			(xy 185.42 114.3) (xy 185.42 119.38)
 		)
 		(stroke
@@ -3881,7 +3923,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 91.44) (xy 134.62 93.98)
+			(xy 134.62 78.74) (xy 134.62 81.28)
 		)
 		(stroke
 			(width 0.1524)
@@ -3898,6 +3940,16 @@
 			(type solid)
 		)
 		(uuid "29c31560-4798-4300-8263-b6d2d6bd0dee")
+	)
+	(wire
+		(pts
+			(xy 137.16 80.01) (xy 137.16 78.74)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2b068b80-0e91-4f97-8df0-8750a9ce6751")
 	)
 	(wire
 		(pts
@@ -3931,16 +3983,6 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 104.14) (xy 134.62 114.3)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "44e918eb-8acd-4d92-833c-d391bc36784c")
-	)
-	(wire
-		(pts
 			(xy 43.18 35.56) (xy 43.18 38.1)
 		)
 		(stroke
@@ -3971,7 +4013,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 91.44) (xy 137.16 93.98)
+			(xy 148.59 80.01) (xy 148.59 81.28)
 		)
 		(stroke
 			(width 0.1524)
@@ -3988,6 +4030,16 @@
 			(type solid)
 		)
 		(uuid "5c39202e-0b3a-4bec-9775-b44938739fe2")
+	)
+	(wire
+		(pts
+			(xy 148.59 95.25) (xy 149.86 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ebfbfcb-9f81-49b0-a5ea-f55bbc4f2cf3")
 	)
 	(wire
 		(pts
@@ -4071,6 +4123,26 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 95.25) (xy 135.89 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c44d2d0-7fc0-4236-a560-61e5b6bbcb6d")
+	)
+	(wire
+		(pts
+			(xy 134.62 95.25) (xy 134.62 114.3)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "932c2ec4-1094-4696-9944-e3f5afc2483c")
+	)
+	(wire
+		(pts
 			(xy 180.34 101.6) (xy 193.04 101.6)
 		)
 		(stroke
@@ -4131,6 +4203,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 91.44) (xy 134.62 95.25)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a63a498b-1eb8-47ab-bbc2-8a0c6b0f9164")
+	)
+	(wire
+		(pts
 			(xy 101.6 171.45) (xy 101.6 157.48)
 		)
 		(stroke
@@ -4158,6 +4240,16 @@
 			(type solid)
 		)
 		(uuid "b6d79ac2-1408-4390-a2ca-c39f5462a9fe")
+	)
+	(wire
+		(pts
+			(xy 148.59 95.25) (xy 148.59 114.3)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c15ccd5e-00c0-42bd-ab1e-2cd571e2f7b0")
 	)
 	(wire
 		(pts
@@ -4191,7 +4283,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 104.14) (xy 137.16 114.3)
+			(xy 148.59 91.44) (xy 148.59 95.25)
 		)
 		(stroke
 			(width 0.1524)
@@ -4291,7 +4383,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 91.44) (xy 134.62 91.44)
+			(xy 137.16 78.74) (xy 134.62 78.74)
 		)
 		(stroke
 			(width 0.1524)
@@ -4410,7 +4502,7 @@
 		(uuid "a7af339a-585b-4122-83d5-e2caf4329f33")
 	)
 	(label "SCL"
-		(at 134.62 111.76 90)
+		(at 134.62 102.87 90)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -4430,7 +4522,7 @@
 		(uuid "d14331ed-24af-4537-ab35-7213b78a7ec1")
 	)
 	(label "SDA"
-		(at 137.16 111.76 90)
+		(at 148.59 114.3 90)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -4468,6 +4560,28 @@
 			(justify left bottom)
 		)
 		(uuid "fcb0b279-b9c5-4c31-8b2c-2ea7598ba139")
+	)
+	(hierarchical_label "I2C_SDA"
+		(shape input)
+		(at 149.86 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "096211b7-9400-477d-94fe-190a43778565")
+	)
+	(hierarchical_label "I2C_SCL"
+		(shape input)
+		(at 135.89 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e3f47ba3-7b61-42e2-89da-57344ba3b225")
 	)
 	(symbol
 		(lib_id "adalogger featherwing-eagle-import:CRYSTAL8.0X3.8")
@@ -5137,7 +5251,7 @@
 	)
 	(symbol
 		(lib_id "adalogger featherwing-eagle-import:RESISTOR_0603_NOOUT")
-		(at 137.16 99.06 90)
+		(at 148.59 86.36 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5145,7 +5259,7 @@
 		(dnp no)
 		(uuid "2e058bd7-fbc6-4278-8400-0839698f0b35")
 		(property "Reference" "R32"
-			(at 134.62 99.06 0)
+			(at 146.05 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5153,7 +5267,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 137.16 99.06 0)
+			(at 148.59 86.36 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -5163,7 +5277,7 @@
 			)
 		)
 		(property "Footprint" "adalogger featherwing:0603-NO"
-			(at 137.16 99.06 0)
+			(at 148.59 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5172,7 +5286,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 99.06 0)
+			(at 148.59 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5181,7 +5295,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 137.16 99.06 0)
+			(at 148.59 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6316,7 +6430,7 @@
 	)
 	(symbol
 		(lib_id "adalogger featherwing-eagle-import:RESISTOR_0603_NOOUT")
-		(at 134.62 99.06 90)
+		(at 134.62 86.36 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6324,7 +6438,7 @@
 		(dnp no)
 		(uuid "8c18d912-5e7e-421f-ad59-ac68a8f7b47f")
 		(property "Reference" "R31"
-			(at 132.08 99.06 0)
+			(at 132.08 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6332,7 +6446,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 134.62 99.06 0)
+			(at 134.62 86.36 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6342,7 +6456,7 @@
 			)
 		)
 		(property "Footprint" "adalogger featherwing:0603-NO"
-			(at 134.62 99.06 0)
+			(at 134.62 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6351,7 +6465,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 99.06 0)
+			(at 134.62 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6360,7 +6474,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 99.06 0)
+			(at 134.62 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6610,7 +6724,7 @@
 	)
 	(symbol
 		(lib_id "adalogger featherwing-eagle-import:+3V3")
-		(at 137.16 88.9 0)
+		(at 137.16 76.2 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6619,7 +6733,7 @@
 		(dnp no)
 		(uuid "bd8bb35e-4dc5-46e7-8396-4f3e533512e0")
 		(property "Reference" "#+3V04"
-			(at 137.16 88.9 0)
+			(at 137.16 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6628,7 +6742,7 @@
 			)
 		)
 		(property "Value" "3.3V"
-			(at 139.446 87.63 0)
+			(at 139.446 74.93 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6637,7 +6751,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 88.9 0)
+			(at 137.16 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6646,7 +6760,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 88.9 0)
+			(at 137.16 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6655,7 +6769,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 137.16 88.9 0)
+			(at 137.16 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
