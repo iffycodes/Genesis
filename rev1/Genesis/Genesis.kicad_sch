@@ -35,6 +35,26 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 81.28) (xy 85.09 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09aad30e-88a6-4692-a3cf-2fce9663f026")
+	)
+	(wire
+		(pts
+			(xy 85.09 115.57) (xy 100.33 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d8a8fb3-8aec-45d7-a26c-d8afd26a6edb")
+	)
+	(wire
+		(pts
 			(xy 69.85 69.85) (xy 100.33 69.85)
 		)
 		(stroke
@@ -45,6 +65,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 78.74) (xy 90.17 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2720393d-406d-4667-b4e7-819becab1100")
+	)
+	(wire
+		(pts
 			(xy 69.85 72.39) (xy 100.33 72.39)
 		)
 		(stroke
@@ -52,6 +82,66 @@
 			(type default)
 		)
 		(uuid "3d4ec292-def3-4da6-8b88-2e0310d3f699")
+	)
+	(wire
+		(pts
+			(xy 81.28 118.11) (xy 100.33 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76fb7621-6734-40cb-8201-e1c161c838a3")
+	)
+	(wire
+		(pts
+			(xy 90.17 78.74) (xy 90.17 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "808e21ba-b67a-4972-9338-c7580b75531e")
+	)
+	(wire
+		(pts
+			(xy 69.85 81.28) (xy 85.09 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1254b0e-dd03-433a-b87c-a87fdcde9eb4")
+	)
+	(wire
+		(pts
+			(xy 81.28 83.82) (xy 81.28 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af6bf58c-78f5-4887-b32d-21649ea81b8e")
+	)
+	(wire
+		(pts
+			(xy 90.17 113.03) (xy 100.33 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb813ea1-0399-42f6-8f0f-a0d358feb46d")
+	)
+	(wire
+		(pts
+			(xy 69.85 83.82) (xy 81.28 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6de9232-65a3-4a78-8c85-1edbcd9b4464")
 	)
 	(sheet
 		(at 52.07 66.04)
@@ -147,7 +237,7 @@
 		)
 	)
 	(sheet
-		(at 100.33 90.17)
+		(at 100.33 100.33)
 		(size 19.05 24.13)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -163,7 +253,7 @@
 		)
 		(uuid "34668455-eab9-44a0-a7b2-48f3dfe2249d")
 		(property "Sheetname" "Ethernet"
-			(at 100.33 89.4584 0)
+			(at 100.33 99.6184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -172,13 +262,43 @@
 			)
 		)
 		(property "Sheetfile" "../../kicad-import/adafruit-ethernet/Adafruit Ethernet FeatherWing.kicad_sch"
-			(at 100.33 114.8846 0)
+			(at 100.33 125.0446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 				(hide yes)
+			)
+		)
+		(pin "MISO" output
+			(at 100.33 115.57 180)
+			(uuid "f6b302f2-7b41-43db-b151-d9bc66f329d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOSI" input
+			(at 100.33 113.03 180)
+			(uuid "e4d51d8b-4ccd-4bde-9dd9-745563beafe2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" input
+			(at 100.33 118.11 180)
+			(uuid "00965eea-46c3-44b0-bf12-146247d42716")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -191,7 +311,7 @@
 	)
 	(sheet
 		(at 100.33 55.88)
-		(size 19.05 22.86)
+		(size 30.48 20.32)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -215,7 +335,7 @@
 			)
 		)
 		(property "Sheetfile" "../../kicad-import/adafruit-datalogger/adalogger featherwing.kicad_sch"
-			(at 100.33 79.3246 0)
+			(at 100.33 76.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
