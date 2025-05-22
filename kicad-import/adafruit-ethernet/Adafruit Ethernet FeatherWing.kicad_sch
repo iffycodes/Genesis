@@ -3942,7 +3942,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 172.72) (xy 73.66 172.72)
+			(xy 60.96 172.72) (xy 67.31 172.72)
 		)
 		(stroke
 			(width 0.1524)
@@ -4129,16 +4129,6 @@
 			(type solid)
 		)
 		(uuid "3da7e3f2-82f1-4431-a272-ebedab61ff3c")
-	)
-	(wire
-		(pts
-			(xy 190.5 114.3) (xy 196.85 114.3)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "3dfdecf6-65d0-4646-9e55-fa0a43772ff4")
 	)
 	(wire
 		(pts
@@ -4702,16 +4692,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 119.38) (xy 196.85 119.38)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "927f9da7-a31c-4805-b204-0d1b7efb984c")
-	)
-	(wire
-		(pts
 			(xy 45.72 96.52) (xy 45.72 127)
 		)
 		(stroke
@@ -5132,16 +5112,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 116.84) (xy 196.85 116.84)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "cf4a5194-6a18-4fab-867b-3b399ad739de")
-	)
-	(wire
-		(pts
 			(xy 96.52 58.42) (xy 96.52 50.8)
 		)
 		(stroke
@@ -5511,16 +5481,6 @@
 		(uuid "609df4ab-f484-4366-909a-66d184f5d1f2")
 	)
 	(label "MISO"
-		(at 190.5 119.38 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "6175a218-7462-4ff6-9f90-c2020f045214")
-	)
-	(label "MISO"
 		(at 60.96 172.72 0)
 		(effects
 			(font
@@ -5539,16 +5499,6 @@
 			(justify left bottom)
 		)
 		(uuid "6d18afeb-3a5c-40d5-a7da-a5e05d474731")
-	)
-	(label "MOSI"
-		(at 190.5 116.84 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "7df291ba-0927-45b2-b9eb-65f6e6bcb8af")
 	)
 	(label "RX+"
 		(at 213.36 73.66 0)
@@ -5589,16 +5539,6 @@
 			(justify left bottom)
 		)
 		(uuid "8b02b4a3-12b7-438c-b75f-2afde4aa1135")
-	)
-	(label "SCK"
-		(at 190.5 114.3 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "8da19927-4cad-42ed-b5dc-fb32652c0c3f")
 	)
 	(label "CS"
 		(at 30.48 162.56 0)
@@ -5710,6 +5650,17 @@
 		)
 		(uuid "f96e4190-8a80-4b27-9a61-16960eadabf6")
 	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 50.8 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3874c110-f5b5-4143-bf45-a9791d29556b")
+	)
 	(hierarchical_label "ETH_CS"
 		(shape input)
 		(at 223.52 124.46 180)
@@ -5723,36 +5674,25 @@
 	)
 	(hierarchical_label "MISO"
 		(shape output)
-		(at 196.85 119.38 0)
+		(at 67.31 172.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "9776395d-1878-4b28-9839-be4113ae310c")
-	)
-	(hierarchical_label "MOSI"
-		(shape input)
-		(at 196.85 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a85809d9-e09f-427b-afee-d0d4d984c6a4")
+		(uuid "e725163c-3806-4e46-9b8d-1b456b89a231")
 	)
 	(hierarchical_label "SCK"
 		(shape input)
-		(at 196.85 114.3 0)
+		(at 50.8 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "b4c89341-93ae-43c2-9585-db168e176f6c")
+		(uuid "fe251774-7c7a-4e62-8145-83a42fa61d78")
 	)
 	(symbol
 		(lib_id "Adafruit Ethernet FeatherWing-eagle-import:GND")
@@ -7376,7 +7316,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44cdb38e-98a5-4ca2-ab61-335e3e4ef956")
-		(property "Reference" "U$5"
+		(property "Reference" "U2"
 			(at 63.5 58.42 0)
 			(effects
 				(font
@@ -7568,7 +7508,7 @@
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d/34668455-eab9-44a0-a7b2-48f3dfe2249d"
-					(reference "U$5")
+					(reference "U2")
 					(unit 1)
 				)
 			)

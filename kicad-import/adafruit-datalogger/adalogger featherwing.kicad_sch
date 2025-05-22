@@ -2256,6 +2256,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 45.72) (xy 77.47 45.72)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "85537c06-0f83-44ad-8743-96eaffb54307")
+	)
+	(wire
+		(pts
 			(xy 182.88 101.6) (xy 193.04 101.6)
 		)
 		(stroke
@@ -2386,7 +2396,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 43.18) (xy 81.28 43.18)
+			(xy 73.66 43.18) (xy 77.47 43.18)
 		)
 		(stroke
 			(width 0.1524)
@@ -2404,18 +2414,8 @@
 		)
 		(uuid "faf030a4-c488-47c9-8cd4-e448bd13c34f")
 	)
-	(wire
-		(pts
-			(xy 81.28 45.72) (xy 73.66 45.72)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "fe3252c5-a4e2-443c-84b8-0e10bc5891eb")
-	)
 	(label "SDA"
-		(at 76.2 45.72 0)
+		(at 77.47 45.72 0)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -2465,7 +2465,7 @@
 		(uuid "8e6ce20d-94d5-439c-89d9-9e9ed1f15e54")
 	)
 	(label "SCL"
-		(at 76.2 43.18 0)
+		(at 77.47 43.18 0)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -2546,17 +2546,6 @@
 		)
 		(uuid "096211b7-9400-477d-94fe-190a43778565")
 	)
-	(hierarchical_label "SD_CS"
-		(shape input)
-		(at 182.88 101.6 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0999f1c7-c88b-4446-aa65-60fe5f32bebc")
-	)
 	(hierarchical_label "SCK"
 		(shape input)
 		(at 182.88 99.06 180)
@@ -2567,6 +2556,17 @@
 			(justify right)
 		)
 		(uuid "2994deb8-725c-4d32-9fc4-46cdeb7613bc")
+	)
+	(hierarchical_label "SD_CS"
+		(shape input)
+		(at 124.46 114.3 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "470ab182-8df2-4434-88e8-73a467d0fb45")
 	)
 	(hierarchical_label "I2C_SCL"
 		(shape input)
