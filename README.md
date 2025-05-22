@@ -12,3 +12,4 @@ Genesis Board design
 - Rename MISO nets on Ethernet page so global MISO net can go to buffer
 - Remove second LDO. Power Neopixel from main regulator.
 - Start adding heirarchical labels. Add notes to check sub-feather jumpers.
+- Remove feather headers and ESP model from ETH and RTC pages.
