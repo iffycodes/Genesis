@@ -22,7 +22,7 @@
 		)
 		(uuid "0c7133d6-4316-4fbb-ba58-9e1c829e1544")
 	)
-	(text "Todo:\nCheck \"3.45V\" net on USB-to-Serial converter on ESP page.\nCreate Global labels, remove The header/model from other pages.\nadd power connector details and LM2575, use switch for power selection\nAdd test points\nGenerate BOM\nCheck footprints (Export/Import symbol libraries from originals)"
+	(text "Todo:\nCheck \"3.45V\" net on USB-to-Serial converter on ESP page.\nadd power connector details and LM2575, use switch for power selection\nAdd test points\nGenerate BOM\nCheck footprints (Export/Import symbol libraries from originals)"
 		(exclude_from_sim no)
 		(at 207.772 27.94 0)
 		(effects
@@ -32,6 +32,24 @@
 			(justify left)
 		)
 		(uuid "67e682d4-8871-47cd-8cd9-4f15e04556ae")
+	)
+	(junction
+		(at 85.09 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8e85efe4-7f9f-4143-97f3-134f3618ddaf")
+	)
+	(junction
+		(at 81.28 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf097f5f-c9e1-4f0a-99d2-0c06ba417eee")
+	)
+	(junction
+		(at 90.17 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2a249e1-e831-4b16-930c-0e6c9b23eaba")
 	)
 	(wire
 		(pts
@@ -125,6 +143,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 83.82) (xy 100.33 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7f8d5b1-7d32-4122-9bb6-954bc59cf719")
+	)
+	(wire
+		(pts
 			(xy 90.17 113.03) (xy 100.33 113.03)
 		)
 		(stroke
@@ -143,9 +171,29 @@
 		)
 		(uuid "c6de9232-65a3-4a78-8c85-1edbcd9b4464")
 	)
+	(wire
+		(pts
+			(xy 85.09 81.28) (xy 100.33 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce5f5921-008f-43d9-bc39-205a28f32af3")
+	)
+	(wire
+		(pts
+			(xy 90.17 78.74) (xy 100.33 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4090c01-8e28-485c-8e26-e7a706149a8e")
+	)
 	(sheet
 		(at 52.07 66.04)
-		(size 17.78 20.32)
+		(size 17.78 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -169,7 +217,7 @@
 			)
 		)
 		(property "Sheetfile" "../../kicad-import/adafruit-feather/Adafruit ESP32 Feather V2.kicad_sch"
-			(at 52.07 86.9446 0)
+			(at 52.07 97.1046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -301,6 +349,16 @@
 				(justify left)
 			)
 		)
+		(pin "ETH_CS" input
+			(at 100.33 120.65 180)
+			(uuid "98300739-9cd7-41d2-8ea1-58833442f0a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "Genesis"
 				(path "/66b8af00-4ede-44e3-a762-88857219665d"
@@ -310,8 +368,8 @@
 		)
 	)
 	(sheet
-		(at 100.33 55.88)
-		(size 30.48 20.32)
+		(at 100.33 66.04)
+		(size 19.05 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -326,7 +384,7 @@
 		)
 		(uuid "9d55f160-1827-4393-a821-340d91310655")
 		(property "Sheetname" "RTC"
-			(at 100.33 55.1684 0)
+			(at 100.33 65.3284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -335,7 +393,7 @@
 			)
 		)
 		(property "Sheetfile" "../../kicad-import/adafruit-datalogger/adalogger featherwing.kicad_sch"
-			(at 100.33 76.7846 0)
+			(at 100.33 89.4846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -357,6 +415,46 @@
 		(pin "I2C_SCL" input
 			(at 100.33 72.39 180)
 			(uuid "16544efc-9d0b-4da2-a479-801f4fa4eda9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MISO" input
+			(at 100.33 81.28 180)
+			(uuid "e7d05f89-fe58-44ea-879a-eafcc84960fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOSI" input
+			(at 100.33 78.74 180)
+			(uuid "e42d6779-5f50-46fa-bffd-2481b169e2a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" input
+			(at 100.33 83.82 180)
+			(uuid "59e58e79-350a-428e-913c-2d5b06308342")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_CS" input
+			(at 100.33 87.63 180)
+			(uuid "7b7602da-2ef8-4b31-81a5-cfc6a703fe06")
 			(effects
 				(font
 					(size 1.27 1.27)
