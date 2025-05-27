@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "c6356563-dbe1-4fb7-9494-45babdbd888f")
 	(paper "User" 303.962 217.322)
+	(title_block
+		(title "Genesis Board")
+		(date "2025-05-27")
+		(rev "0.1")
+		(company "Kingdom Metrics")
+	)
 	(lib_symbols
 		(symbol "Adafruit ESP32 Feather V2-eagle-import:3.3V"
 			(power)

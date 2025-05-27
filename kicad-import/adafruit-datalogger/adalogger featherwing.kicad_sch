@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "513b855f-afaa-458f-b216-457a372f9dfa")
 	(paper "User" 298.45 217.322)
+	(title_block
+		(title "Genesis Board")
+		(date "2025-05-27")
+		(rev "0.1")
+		(company "Kingdom Metrics")
+	)
 	(lib_symbols
 		(symbol "adalogger featherwing-eagle-import:+3V3"
 			(power)

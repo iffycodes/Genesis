@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "f8d80f0f-4921-491b-a5b2-8dada69d1b2b")
 	(paper "User" 303.962 217.322)
+	(title_block
+		(title "Genesis Board")
+		(date "2025-05-27")
+		(rev "0.1")
+		(company "Kingdom Metrics")
+	)
 	(lib_symbols
 		(symbol "Adafruit Ethernet FeatherWing-eagle-import:3.3V"
 			(power)
