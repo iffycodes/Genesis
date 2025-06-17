@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "adalogger featherwing-eagle-import")(type "KiCad")(uri "/home/b00p/workspaces/hardware/Genesis/kicad-import/adafruit-datalogger/adalogger featherwing-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit Ethernet FeatherWing-eagle-import")(type "KiCad")(uri "/home/b00p/workspaces/hardware/Genesis/kicad-import/adafruit-ethernet/Adafruit Ethernet FeatherWing-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit ESP32 Feather V2-eagle-import")(type "KiCad")(uri "/home/b00p/workspaces/hardware/Genesis/kicad-import/adafruit-feather/Adafruit ESP32 Feather V2-eagle-import.kicad_sym")(options "")(descr ""))
+)
