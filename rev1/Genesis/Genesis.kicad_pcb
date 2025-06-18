@@ -199,7 +199,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0603-NO"
 		(layer "F.Cu")
 		(uuid "0200d2c7-de6e-4cf7-9d67-794550c21a00")
-		(at -79.993 -11.9204)
+		(at 175.8852 140.5396)
 		(property "Reference" "R9"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -388,7 +388,7 @@
 	(footprint "Adafruit ESP32 Feather V2:SOT363"
 		(layer "F.Cu")
 		(uuid "0509348c-2960-48b7-978a-8fec35b7793b")
-		(at -67.9466 -9.02)
+		(at 187.9316 143.44)
 		(descr "Source: http://www.nxp.com/documents/data_sheet/2N7002PS.pdf")
 		(property "Reference" "Q1"
 			(at 1.651 -0.127 0)
@@ -654,7 +654,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "0bd1cdfc-cbaf-4df4-9f27-acd96d7a619a")
-		(at -45.5994 10.5732)
+		(at 211.6468 88.9912)
 		(property "Reference" "R24"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -833,7 +833,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0805-NO"
 		(layer "F.Cu")
 		(uuid "0fb93627-1051-4918-9533-66c642a54116")
-		(at -75.9282 -16.96)
+		(at 179.95 135.5)
 		(property "Reference" "C3"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -970,7 +970,7 @@
 	(footprint "Adafruit ESP32 Feather V2:CHIPLED_0603_NOOUTLINE"
 		(layer "F.Cu")
 		(uuid "10467dab-3b63-4f41-bc26-abafffcff2a4")
-		(at -94.2874 -3.41)
+		(at 137 119)
 		(property "Reference" "D2"
 			(at -0.762 1.27 90)
 			(unlocked yes)
@@ -1250,7 +1250,7 @@
 	(footprint "Adafruit ESP32 Feather V2:SOT23-5"
 		(layer "F.Cu")
 		(uuid "13df2d6d-e79d-4300-9adf-52fd0e6508de")
-		(at -98.4866 2.2701)
+		(at 154.05 125.3001)
 		(descr "Small Outline Transistor - 5 Pin")
 		(property "Reference" "U1"
 			(at 1.978 0 0)
@@ -1500,7 +1500,7 @@
 	(footprint "Adafruit ESP32 Feather V2:RESPACK_4X0603"
 		(layer "F.Cu")
 		(uuid "1e17ba36-ad16-4498-8acd-56148fb91910")
-		(at -103.2366 -17.2052)
+		(at 193.9 113.6468)
 		(property "Reference" "R4"
 			(at -1.6 -1.6 0)
 			(unlocked yes)
@@ -1749,7 +1749,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0805-NO"
 		(layer "F.Cu")
 		(uuid "1e3eeb0e-8bdd-4289-92de-3842037354fe")
-		(at -53.0182 25.62)
+		(at 204.228 104.038)
 		(property "Reference" "C13"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -1886,7 +1886,7 @@
 	(footprint "adalogger featherwing:SOIC8_150MIL"
 		(layer "F.Cu")
 		(uuid "21b0d152-1deb-42a5-9031-308a43cb26f8")
-		(at -87.1366 34.31)
+		(at 128.595 113.4)
 		(descr "Small Outline IC - 150mil Wide")
 		(property "Reference" "IC3"
 			(at -1.905 -0.381 0)
@@ -2239,7 +2239,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0805-NO"
 		(layer "F.Cu")
 		(uuid "22e564a2-5285-44d2-9d6b-5aadedda5fe4")
-		(at -53.0182 30.62)
+		(at 204.228 109.038)
 		(property "Reference" "C22"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -2376,7 +2376,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "22fd12f8-f1c2-4512-bc43-6f315ba23775")
-		(at -57.5898 23.1172)
+		(at 199.6564 101.5352)
 		(property "Reference" "C20"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -2555,7 +2555,7 @@
 	(footprint "adalogger featherwing:0805-NO"
 		(layer "F.Cu")
 		(uuid "23364d6a-47a7-41de-b787-ce8b13442a33")
-		(at -83.5682 39.76)
+		(at 90.05 112)
 		(property "Reference" "C27"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -2692,7 +2692,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "25c17a8e-73b6-491c-a538-309290b584bd")
-		(at -57.5898 13.082)
+		(at 199.6564 91.5)
 		(property "Reference" "C15"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -2871,7 +2871,7 @@
 	(footprint "adalogger featherwing:0603-NO"
 		(layer "F.Cu")
 		(uuid "28700afa-49ec-4b9e-b68d-e8cafae8a36a")
-		(at -82.8498 15.5908)
+		(at 101.15 104.0088)
 		(property "Reference" "R32"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -3060,7 +3060,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "2d63c967-902e-4f02-822c-8b46da1edf30")
-		(at -53.593 15.5908)
+		(at 203.6532 94.0088)
 		(property "Reference" "C25"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -3239,10 +3239,10 @@
 	(footprint "adalogger featherwing:CRYSTAL_8X3.8"
 		(layer "F.Cu")
 		(uuid "2e19324c-ba54-4861-9369-51acf1d40815")
-		(at -85.4366 27.06)
+		(at 118.25 114.1)
 		(descr "8.0x3.8x2.5mm SMT Crystal\n\nSource: http://www.abracon.com/Resonators/abs25.pdf")
 		(property "Reference" "Y2"
-			(at -1.9 -2.854 0)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "0de29f55-b74c-47e2-8a7c-ba360ce0c4f9")
@@ -3684,7 +3684,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "2f940c77-57bc-49b1-af29-b26b9bb6c0b6")
-		(at -49.5962 18.0996)
+		(at 207.65 96.5176)
 		(property "Reference" "R20"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -3863,7 +3863,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:LQFP48"
 		(layer "F.Cu")
 		(uuid "31003ac6-237b-4871-bd16-1de4bbeb9237")
-		(at -73.4382 35.7)
+		(at 180.8 119.25)
 		(property "Reference" "U2"
 			(at -2.974 -5.3001 0)
 			(unlocked yes)
@@ -5821,7 +5821,7 @@
 	(footprint "Adafruit ESP32 Feather V2:1X16_ROUND"
 		(layer "F.Cu")
 		(uuid "32365abb-f02a-4286-822f-d6d6a7bc336f")
-		(at -84.8166 -27.2118)
+		(at 159.77 75)
 		(descr "PIN HEADER")
 		(property "Reference" "JP2"
 			(at -20.3962 -1.8288 0)
@@ -6291,7 +6291,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:SOLDERJUMPER_REFLOW_NOPASTE"
 		(layer "F.Cu")
 		(uuid "34b4c8dc-eba0-4e61-b5b1-4f67d61bd57a")
-		(at -57.3356 29.2228)
+		(at 199.9106 107.6408)
 		(property "Reference" "SJ2"
 			(at -1.651 -1.27 0)
 			(unlocked yes)
@@ -6512,7 +6512,7 @@
 	(footprint "adalogger featherwing:FIDUCIAL_1MM"
 		(layer "F.Cu")
 		(uuid "3733f83e-1029-46a3-9d7f-b42e886277da")
-		(at -83.3482 18.34)
+		(at 236 34)
 		(property "Reference" "FID4"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -6665,7 +6665,7 @@
 	(footprint "Adafruit ESP32 Feather V2:RESPACK_4X0603"
 		(layer "F.Cu")
 		(uuid "38484447-c46a-4cf3-838b-024be2f0e4b4")
-		(at -103.2366 -9.1988)
+		(at 193.9 121.6532)
 		(property "Reference" "R7"
 			(at -1.6 -1.6 0)
 			(unlocked yes)
@@ -6914,7 +6914,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0805-NO"
 		(layer "F.Cu")
 		(uuid "3ca3cd19-e7e9-4bce-a5d7-658c18464eb0")
-		(at -53.0182 35.62)
+		(at 204.228 114.038)
 		(property "Reference" "FB2"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -7051,7 +7051,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0603-NO"
 		(layer "F.Cu")
 		(uuid "3d0e6469-68da-4e8e-9cb7-a98f7d99ae96")
-		(at -83.9898 -16.938)
+		(at 171.8884 135.522)
 		(property "Reference" "C8"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -7240,10 +7240,10 @@
 	(footprint "Adafruit Ethernet FeatherWing:RJ45_PULSEJACK"
 		(layer "F.Cu")
 		(uuid "3d5080eb-2e30-4d77-9591-6c8dad33f13b")
-		(at -69.1632 19.007652)
+		(at 210.785 135.9 180)
 		(descr "RJ45 (Ethernet) Connector with LEDs and Built-In Transformer\n\nModel: J0026D21BNL Digikey: 553-1349-ND")
 		(property "Reference" "X3"
-			(at -7.62 -11.43 0)
+			(at -7.62 -11.43 180)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "7379e4a4-5c46-47c8-a48f-f073c1266a11")
@@ -7256,7 +7256,7 @@
 			)
 		)
 		(property "Value" "RB1-125BAG1A"
-			(at -7.62 12.7 0)
+			(at -7.62 12.7 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "59abb5ab-2380-4943-bf27-bc38599ab0ad")
@@ -7296,64 +7296,14 @@
 		(sheetname "/Ethernet/")
 		(sheetfile "../../kicad-import/adafruit-ethernet/Adafruit Ethernet FeatherWing.kicad_sch")
 		(fp_line
-			(start -8.13 -10.79)
-			(end -8.13 -7.87)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "d3b18534-9458-4f0e-99b1-467cea8e266b")
-		)
-		(fp_line
-			(start -8.13 -10.79)
-			(end 8.2 -10.79)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b69f3987-ff42-48a4-8a10-b1573bf84f28")
-		)
-		(fp_line
-			(start -8.13 -7.87)
-			(end -8.13 0.64)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "de0fabe9-74a5-4eba-8c31-fdec1c42a517")
-		)
-		(fp_line
-			(start -8.13 4.83)
-			(end -8.13 10.8)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "27800086-04ea-47e8-9f54-07922c68d789")
-		)
-		(fp_line
-			(start -8.13 10.8)
+			(start 8.2 4.83)
 			(end 8.2 10.8)
 			(stroke
 				(width 0.2032)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "87deb99a-903a-43e0-afc3-2c25545c8812")
-		)
-		(fp_line
-			(start 8.2 -10.79)
-			(end 8.2 -7.87)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "57986d5c-15f9-4de1-8cac-3d54d2da82ed")
+			(uuid "4c53f61b-b04c-4554-ad02-d4a904d16955")
 		)
 		(fp_line
 			(start 8.2 -7.87)
@@ -7366,44 +7316,64 @@
 			(uuid "73f52bd9-8e19-48a9-bc4b-7f3a23268f06")
 		)
 		(fp_line
-			(start 8.2 4.83)
+			(start 8.2 -10.79)
+			(end 8.2 -7.87)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "57986d5c-15f9-4de1-8cac-3d54d2da82ed")
+		)
+		(fp_line
+			(start -8.13 10.8)
 			(end 8.2 10.8)
 			(stroke
 				(width 0.2032)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4c53f61b-b04c-4554-ad02-d4a904d16955")
+			(uuid "87deb99a-903a-43e0-afc3-2c25545c8812")
 		)
 		(fp_line
-			(start -8.246 -11)
-			(end 8.382 -11)
+			(start -8.13 4.83)
+			(end -8.13 10.8)
 			(stroke
-				(width 0.127)
+				(width 0.2032)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "75242ada-29fd-454c-a540-eb6c4aa526e2")
+			(layer "F.SilkS")
+			(uuid "27800086-04ea-47e8-9f54-07922c68d789")
 		)
 		(fp_line
-			(start -8.246 -7.754)
-			(end -8.246 -11)
+			(start -8.13 -7.87)
+			(end -8.13 0.64)
 			(stroke
-				(width 0.127)
+				(width 0.2032)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "643c294c-f129-4114-bdbc-8d3afd35a1e7")
+			(layer "F.SilkS")
+			(uuid "de0fabe9-74a5-4eba-8c31-fdec1c42a517")
 		)
 		(fp_line
-			(start 8.382 -11)
-			(end 8.382 -7.754)
+			(start -8.13 -10.79)
+			(end 8.2 -10.79)
 			(stroke
-				(width 0.127)
+				(width 0.2032)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "a022a08f-d9eb-4dc8-bc30-4720f308ffe1")
+			(layer "F.SilkS")
+			(uuid "b69f3987-ff42-48a4-8a10-b1573bf84f28")
+		)
+		(fp_line
+			(start -8.13 -10.79)
+			(end -8.13 -7.87)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d3b18534-9458-4f0e-99b1-467cea8e266b")
 		)
 		(fp_line
 			(start 8.382 -7.754)
@@ -7416,154 +7386,44 @@
 			(uuid "8ce49fb2-afb0-43dd-912e-60332b360355")
 		)
 		(fp_line
-			(start -8.13 -10.79)
-			(end -8.13 -7.87)
+			(start 8.382 -11)
+			(end 8.382 -7.754)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "f3498c9d-9f6b-4478-ac22-320484565635")
+			(layer "F.CrtYd")
+			(uuid "a022a08f-d9eb-4dc8-bc30-4720f308ffe1")
 		)
 		(fp_line
-			(start -8.13 -10.79)
-			(end 8.2 -10.79)
+			(start -8.246 -7.754)
+			(end -8.246 -11)
 			(stroke
 				(width 0.127)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "236d9ea1-2528-4261-9a04-c51107bdcf5d")
+			(layer "F.CrtYd")
+			(uuid "643c294c-f129-4114-bdbc-8d3afd35a1e7")
 		)
 		(fp_line
-			(start -8.13 -7.87)
-			(end -8.13 10.8)
+			(start -8.246 -11)
+			(end 8.382 -11)
 			(stroke
-				(width 0.2032)
+				(width 0.127)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "270eb7d1-5dc2-4b89-af7d-d8ea8f37c1d5")
+			(layer "F.CrtYd")
+			(uuid "75242ada-29fd-454c-a540-eb6c4aa526e2")
 		)
 		(fp_line
-			(start -8.13 -7.87)
-			(end 8.2 -7.87)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "38e57120-3177-4b35-805f-c88a4de5b401")
-		)
-		(fp_line
-			(start -8.13 10.8)
+			(start 8.2 -7.87)
 			(end 8.2 10.8)
 			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "3c19afed-080b-4b9d-b8cb-744e9eba34cd")
-		)
-		(fp_line
-			(start -4.878 -10.834)
-			(end -4.378 -3.084)
-			(stroke
 				(width 0.2032)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "bb75a349-d11f-49cd-b45e-f8ced670b69e")
-		)
-		(fp_line
-			(start -4.503 -10.709)
-			(end -4.128 -4.459)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "7659be58-8cde-440f-a5ad-f0a22705bfef")
-		)
-		(fp_line
-			(start -2.128 -3.084)
-			(end -4.378 -3.084)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "70928a73-1fc2-4480-83ca-3a389a822b7d")
-		)
-		(fp_line
-			(start -2.003 -10.709)
-			(end -2.378 -4.459)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "1a4c5c99-8648-429c-ae1d-07f3c5187b06")
-		)
-		(fp_line
-			(start -1.628 -10.834)
-			(end -2.128 -3.084)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "59fd2095-e4da-4b41-9358-5d8af58fc47e")
-		)
-		(fp_line
-			(start 1.726 -10.834)
-			(end 2.226 -3.084)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e0f2ace3-d392-48f1-ba8d-cc517be20eb9")
-		)
-		(fp_line
-			(start 2.101 -10.709)
-			(end 2.476 -4.459)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "40a8c655-7661-4394-b9a7-8d21084843c4")
-		)
-		(fp_line
-			(start 4.476 -3.084)
-			(end 2.226 -3.084)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "824d5692-5c76-4832-8368-11a1e625270b")
-		)
-		(fp_line
-			(start 4.601 -10.709)
-			(end 4.226 -4.459)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "85982bc3-135f-4605-84e9-45806a7f6c54")
-		)
-		(fp_line
-			(start 4.976 -10.834)
-			(end 4.476 -3.084)
-			(stroke
-				(width 0.2032)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "8d4b7a25-d68a-4c00-9ccd-eb8e655626d4")
+			(uuid "6cc9b53f-7886-406e-8f36-4fd382ef559d")
 		)
 		(fp_line
 			(start 8.2 -10.79)
@@ -7576,36 +7436,165 @@
 			(uuid "7cf92f01-51c9-4d81-8596-24aea1cd6a5e")
 		)
 		(fp_line
-			(start 8.2 -7.87)
-			(end 8.2 10.8)
+			(start 4.976 -10.834)
+			(end 4.476 -3.084)
 			(stroke
 				(width 0.2032)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6cc9b53f-7886-406e-8f36-4fd382ef559d")
+			(uuid "8d4b7a25-d68a-4c00-9ccd-eb8e655626d4")
 		)
-		(fp_arc
-			(start -4.878 -10.834)
-			(mid -3.253 -11.634152)
-			(end -1.628 -10.834)
+		(fp_line
+			(start 4.601 -10.709)
+			(end 4.226 -4.459)
 			(stroke
-				(width 0.127)
+				(width 0.2032)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6dfa4042-c650-433c-9249-a0b7172808d9")
+			(uuid "85982bc3-135f-4605-84e9-45806a7f6c54")
 		)
-		(fp_arc
-			(start -2.378 -4.459)
-			(mid -3.253 -3.584)
+		(fp_line
+			(start 4.476 -3.084)
+			(end 2.226 -3.084)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "824d5692-5c76-4832-8368-11a1e625270b")
+		)
+		(fp_line
+			(start 2.101 -10.709)
+			(end 2.476 -4.459)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "40a8c655-7661-4394-b9a7-8d21084843c4")
+		)
+		(fp_line
+			(start 1.726 -10.834)
+			(end 2.226 -3.084)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e0f2ace3-d392-48f1-ba8d-cc517be20eb9")
+		)
+		(fp_line
+			(start -1.628 -10.834)
+			(end -2.128 -3.084)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "59fd2095-e4da-4b41-9358-5d8af58fc47e")
+		)
+		(fp_line
+			(start -2.003 -10.709)
+			(end -2.378 -4.459)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1a4c5c99-8648-429c-ae1d-07f3c5187b06")
+		)
+		(fp_line
+			(start -2.128 -3.084)
+			(end -4.378 -3.084)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "70928a73-1fc2-4480-83ca-3a389a822b7d")
+		)
+		(fp_line
+			(start -4.503 -10.709)
 			(end -4.128 -4.459)
 			(stroke
 				(width 0.2032)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2519e2fb-12ed-41f0-bc1b-a1c5980e3bdd")
+			(uuid "7659be58-8cde-440f-a5ad-f0a22705bfef")
+		)
+		(fp_line
+			(start -4.878 -10.834)
+			(end -4.378 -3.084)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "bb75a349-d11f-49cd-b45e-f8ced670b69e")
+		)
+		(fp_line
+			(start -8.13 10.8)
+			(end 8.2 10.8)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3c19afed-080b-4b9d-b8cb-744e9eba34cd")
+		)
+		(fp_line
+			(start -8.13 -7.87)
+			(end 8.2 -7.87)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "38e57120-3177-4b35-805f-c88a4de5b401")
+		)
+		(fp_line
+			(start -8.13 -7.87)
+			(end -8.13 10.8)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "270eb7d1-5dc2-4b89-af7d-d8ea8f37c1d5")
+		)
+		(fp_line
+			(start -8.13 -10.79)
+			(end 8.2 -10.79)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "236d9ea1-2528-4261-9a04-c51107bdcf5d")
+		)
+		(fp_line
+			(start -8.13 -10.79)
+			(end -8.13 -7.87)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f3498c9d-9f6b-4478-ac22-320484565635")
+		)
+		(fp_arc
+			(start 4.226 -4.459)
+			(mid 3.351 -3.584)
+			(end 2.476 -4.459)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5b86404f-ebb7-41a5-9b88-3ed292826ab1")
 		)
 		(fp_arc
 			(start 1.726 -10.834)
@@ -7619,18 +7608,29 @@
 			(uuid "af477aaa-057f-46bd-9926-37bfd98b80aa")
 		)
 		(fp_arc
-			(start 4.226 -4.459)
-			(mid 3.351 -3.584)
-			(end 2.476 -4.459)
+			(start -2.378 -4.459)
+			(mid -3.253 -3.584)
+			(end -4.128 -4.459)
 			(stroke
 				(width 0.2032)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5b86404f-ebb7-41a5-9b88-3ed292826ab1")
+			(uuid "2519e2fb-12ed-41f0-bc1b-a1c5980e3bdd")
+		)
+		(fp_arc
+			(start -4.878 -10.834)
+			(mid -3.253 -11.634152)
+			(end -1.628 -10.834)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6dfa4042-c650-433c-9249-a0b7172808d9")
 		)
 		(fp_text user "NO TRACE ZONE"
-			(at -5.842 -8.89 0)
+			(at -5.842 -8.89 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "12ecd6b1-6535-4db0-9fa8-8d0603790654")
@@ -7643,21 +7643,21 @@
 			)
 		)
 		(pad "" np_thru_hole circle
-			(at -5.715 0)
+			(at -5.715 0 180)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(uuid "61fed6e4-2b4f-4c76-ad75-33faa7bcb93b")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.715 0)
+			(at 5.715 0 180)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(uuid "01ec0d6d-9166-4313-ab0b-22bb1d7ed74b")
 		)
 		(pad "1" thru_hole circle
-			(at 4.445 6.35)
+			(at 4.445 6.35 180)
 			(size 1.6764 1.6764)
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
@@ -7670,7 +7670,7 @@
 			(uuid "4667d16f-d5aa-4d3c-a204-6c55f7425375")
 		)
 		(pad "2" thru_hole circle
-			(at 3.175 8.89)
+			(at 3.175 8.89 180)
 			(size 1.6764 1.6764)
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
@@ -7683,7 +7683,7 @@
 			(uuid "0ffcc065-6673-43aa-a19c-b409c480274c")
 		)
 		(pad "3" thru_hole circle
-			(at 1.905 6.35)
+			(at 1.905 6.35 180)
 			(size 1.6764 1.6764)
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
@@ -7696,7 +7696,7 @@
 			(uuid "4aa1c459-caf3-4419-82c5-71a1c24241c8")
 		)
 		(pad "4" thru_hole circle
-			(at 0.635 8.89)
+			(at 0.635 8.89 180)
 			(size 1.6764 1.6764)
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
@@ -7709,7 +7709,7 @@
 			(uuid "a9ec48de-6f6e-42bb-9fff-7cb7404ccaf4")
 		)
 		(pad "5" thru_hole circle
-			(at -0.635 6.35)
+			(at -0.635 6.35 180)
 			(size 1.6764 1.6764)
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
@@ -7722,7 +7722,7 @@
 			(uuid "cf247778-29c7-4824-a6db-96fe50a1407f")
 		)
 		(pad "6" thru_hole circle
-			(at -1.905 8.89)
+			(at -1.905 8.89 180)
 			(size 1.6764 1.6764)
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
@@ -7735,7 +7735,7 @@
 			(uuid "6d12d834-ccea-46b7-a319-3463e34613e4")
 		)
 		(pad "7" thru_hole circle
-			(at -3.175 6.35)
+			(at -3.175 6.35 180)
 			(size 1.6764 1.6764)
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
@@ -7748,7 +7748,7 @@
 			(uuid "2d93be50-fff2-4a95-9b73-d9061d0a149d")
 		)
 		(pad "8" thru_hole circle
-			(at -4.445 8.89)
+			(at -4.445 8.89 180)
 			(size 1.6764 1.6764)
 			(drill 0.9)
 			(layers "*.Cu" "*.Mask")
@@ -7761,7 +7761,7 @@
 			(uuid "3a77e51c-9149-42d8-8c90-f933fd7f6bdf")
 		)
 		(pad "9" thru_hole circle
-			(at 6.325 -4.9)
+			(at 6.325 -4.9 180)
 			(size 1.6764 1.6764)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -7774,7 +7774,7 @@
 			(uuid "ddccdd01-4699-42c0-ba89-1014cb992e60")
 		)
 		(pad "10" thru_hole circle
-			(at 3.785 -3.38)
+			(at 3.785 -3.38 180)
 			(size 1.6764 1.6764)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -7787,7 +7787,7 @@
 			(uuid "326f6700-b4b2-4740-b70f-7d03638c6535")
 		)
 		(pad "11" thru_hole circle
-			(at -3.785 -4.9)
+			(at -3.785 -4.9 180)
 			(size 1.6764 1.6764)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -7800,7 +7800,7 @@
 			(uuid "86a3bf0a-ef1c-4337-b449-595a0f543781")
 		)
 		(pad "12" thru_hole circle
-			(at -6.325 -3.38)
+			(at -6.325 -3.38 180)
 			(size 1.6764 1.6764)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -7813,7 +7813,7 @@
 			(uuid "c98a4b38-66a4-4e0c-92ad-3aec25f86206")
 		)
 		(pad "P$5" thru_hole circle
-			(at -7.875 3.05)
+			(at -7.875 3.05 180)
 			(size 2.4 2.4)
 			(drill 1.6)
 			(layers "*.Cu" "*.Mask")
@@ -7823,7 +7823,7 @@
 			(uuid "8c6d1cce-be49-4cff-a3d5-9693b5872c8c")
 		)
 		(pad "P$6" thru_hole circle
-			(at 7.875 3.05)
+			(at 7.875 3.05 180)
 			(size 2.4 2.4)
 			(drill 1.6)
 			(layers "*.Cu" "*.Mask")
@@ -7837,7 +7837,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:FIDUCIAL_1MM"
 		(layer "F.Cu")
 		(uuid "41768de2-2b50-4828-bd87-92f5492d5577")
-		(at -66.6382 31.9)
+		(at 237.5 48.5)
 		(property "Reference" "FID1"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -7990,7 +7990,7 @@
 	(footprint "Adafruit ESP32 Feather V2:RESPACK_4X0603"
 		(layer "F.Cu")
 		(uuid "4b456831-959e-4b72-882f-b178873256c8")
-		(at -103.2366 -13.202)
+		(at 193.9 117.65)
 		(property "Reference" "R5"
 			(at -1.6 -1.6 0)
 			(unlocked yes)
@@ -8239,7 +8239,7 @@
 	(footprint "adalogger featherwing:0603-NO"
 		(layer "F.Cu")
 		(uuid "562ba55c-5d89-46f5-8db6-40060da59cb3")
-		(at -82.8498 8.0644)
+		(at 101.15 96.4824)
 		(property "Reference" "R29"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -8428,7 +8428,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "56a50a6f-d94c-4a0d-9f57-1444d3e73c18")
-		(at -57.5898 15.5908)
+		(at 199.6564 94.0088)
 		(property "Reference" "C16"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -8607,7 +8607,7 @@
 	(footprint "Adafruit ESP32 Feather V2:ESP32-PICO-MINI"
 		(layer "F.Cu")
 		(uuid "576412ae-a314-499f-b23b-1ca2d54ccbbe")
-		(at -93.3632 -11.435)
+		(at 158.4 108.4)
 		(property "Reference" "X1"
 			(at -6.85 -12.25 0)
 			(unlocked yes)
@@ -9604,7 +9604,7 @@
 			)
 			(polygon
 				(pts
-					(xy -99.9632 -17.035) (xy -86.7632 -17.035) (xy -86.7632 -22.435) (xy -99.9632 -22.435)
+					(xy 151.8 102.8) (xy 165 102.8) (xy 165 97.4) (xy 151.8 97.4)
 				)
 			)
 		)
@@ -9636,7 +9636,7 @@
 			)
 			(polygon
 				(pts
-					(xy -99.9632 -17.035) (xy -86.7632 -17.035) (xy -86.7632 -22.435) (xy -99.9632 -22.435)
+					(xy 151.8 102.8) (xy 165 102.8) (xy 165 97.4) (xy 151.8 97.4)
 				)
 			)
 		)
@@ -9668,7 +9668,7 @@
 			)
 			(polygon
 				(pts
-					(xy -99.9632 -17.035) (xy -86.7632 -17.035) (xy -86.7632 -22.435) (xy -99.9632 -22.435)
+					(xy 151.8 102.8) (xy 165 102.8) (xy 165 97.4) (xy 151.8 97.4)
 				)
 			)
 		)
@@ -9677,7 +9677,7 @@
 	(footprint "Adafruit ESP32 Feather V2:RESPACK_4X0603"
 		(layer "F.Cu")
 		(uuid "5b4cc188-df94-4f67-8cd2-310c7befc73d")
-		(at -103.2366 -5.1956)
+		(at 193.9 125.6564)
 		(property "Reference" "R10"
 			(at -1.6 -1.6 0)
 			(unlocked yes)
@@ -9926,7 +9926,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "5d2e39b0-b5c7-4456-a30a-84ad564fe8ee")
-		(at -53.593 10.5732)
+		(at 203.6532 88.9912)
 		(property "Reference" "C23"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -10105,7 +10105,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:SOLDERJUMPER_CLOSEDWIRE"
 		(layer "F.Cu")
 		(uuid "5f74a5b4-ecaf-4e0d-a012-e479469d4719")
-		(at -57.3356 35.6932)
+		(at 199.9106 114.1112)
 		(property "Reference" "SJ4"
 			(at -1.651 -1.27 0)
 			(unlocked yes)
@@ -10335,7 +10335,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0603-NO"
 		(layer "F.Cu")
 		(uuid "5f8fede6-4502-47fc-a137-77825d05d3ab")
-		(at -83.9898 -19.4468)
+		(at 171.8884 133.0132)
 		(property "Reference" "C7"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -10524,7 +10524,7 @@
 	(footprint "Adafruit ESP32 Feather V2:RESPACK_4X0603"
 		(layer "F.Cu")
 		(uuid "64bf9b9c-ad49-477e-b623-c6ffe4e15c68")
-		(at -103.2366 -1.1924)
+		(at 193.9 129.6596)
 		(property "Reference" "R11"
 			(at -1.6 -1.6 0)
 			(unlocked yes)
@@ -10773,7 +10773,7 @@
 	(footprint "Adafruit ESP32 Feather V2:BTN_KMR2_4.6X2.8"
 		(layer "F.Cu")
 		(uuid "68c43d95-1a4d-4848-ad05-f4ca72e1a88c")
-		(at -70.8582 -16.829)
+		(at 185.02 135.631)
 		(property "Reference" "SW2"
 			(at -2.032 -1.778 0)
 			(unlocked yes)
@@ -11052,7 +11052,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "69cd6151-91c2-4b3e-a4c4-6f269848154f")
-		(at -53.593 20.6084)
+		(at 203.6532 99.0264)
 		(property "Reference" "R14"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -11231,7 +11231,7 @@
 	(footprint "Adafruit ESP32 Feather V2:MOUNTINGHOLE_2.5_PLATED"
 		(layer "F.Cu")
 		(uuid "6af497ce-3894-4429-8eac-21cda1d42cb9")
-		(at -72.7466 -2.8652)
+		(at 255 39.2032)
 		(property "Reference" "U$4"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -11244,7 +11244,7 @@
 			)
 		)
 		(property "Value" "MOUNTINGHOLE2.5"
-			(at 0 0 0)
+			(at 0 6.2968 0)
 			(layer "F.Fab")
 			(uuid "569cf682-657b-493a-8c96-bccd2a3a9dd3")
 			(effects
@@ -11352,24 +11352,24 @@
 			)
 			(polygon
 				(pts
-					(xy -70.7306 -2.8652) (xy -70.75022 -3.145773) (xy -70.808696 -3.420885) (xy -70.904892 -3.685181)
-					(xy -71.036935 -3.933517) (xy -71.202254 -4.16106) (xy -71.397633 -4.36338) (xy -71.619267 -4.53654)
-					(xy -71.862844 -4.677169) (xy -72.123622 -4.78253) (xy -72.396525 -4.850572) (xy -72.676243 -4.879972)
-					(xy -72.957329 -4.870156) (xy -73.234315 -4.821316) (xy -73.501807 -4.734403) (xy -73.7546 -4.611107)
-					(xy -73.987774 -4.45383) (xy -74.196789 -4.265631) (xy -74.377578 -4.050175) (xy -74.526622 -3.811655)
-					(xy -74.64102 -3.554713) (xy -74.718546 -3.28435) (xy -74.757689 -3.005829) (xy -74.757689 -2.724571)
-					(xy -74.718546 -2.44605) (xy -74.64102 -2.175687) (xy -74.526622 -1.918745) (xy -74.377578 -1.680225)
-					(xy -74.196789 -1.464769) (xy -73.987774 -1.27657) (xy -73.7546 -1.119293) (xy -73.501807 -0.995997)
-					(xy -73.234315 -0.909084) (xy -72.957329 -0.860244) (xy -72.676243 -0.850428) (xy -72.396525 -0.879828)
-					(xy -72.123622 -0.94787) (xy -71.862844 -1.053231) (xy -71.619267 -1.19386) (xy -71.397633 -1.36702)
-					(xy -71.202254 -1.56934) (xy -71.036935 -1.796883) (xy -70.904892 -2.045219) (xy -70.808696 -2.309515)
-					(xy -70.75022 -2.584627)
+					(xy 257.016 39.2032) (xy 256.99638 38.922627) (xy 256.937904 38.647515) (xy 256.841708 38.383219)
+					(xy 256.709665 38.134883) (xy 256.544346 37.90734) (xy 256.348967 37.70502) (xy 256.127333 37.53186)
+					(xy 255.883756 37.391231) (xy 255.622978 37.28587) (xy 255.350075 37.217828) (xy 255.070357 37.188428)
+					(xy 254.789271 37.198244) (xy 254.512285 37.247084) (xy 254.244793 37.333997) (xy 253.992 37.457293)
+					(xy 253.758826 37.61457) (xy 253.549811 37.802769) (xy 253.369022 38.018225) (xy 253.219978 38.256745)
+					(xy 253.10558 38.513687) (xy 253.028054 38.78405) (xy 252.988911 39.062571) (xy 252.988911 39.343829)
+					(xy 253.028054 39.62235) (xy 253.10558 39.892713) (xy 253.219978 40.149655) (xy 253.369022 40.388175)
+					(xy 253.549811 40.603631) (xy 253.758826 40.79183) (xy 253.992 40.949107) (xy 254.244793 41.072403)
+					(xy 254.512285 41.159316) (xy 254.789271 41.208156) (xy 255.070357 41.217972) (xy 255.350075 41.188572)
+					(xy 255.622978 41.12053) (xy 255.883756 41.015169) (xy 256.127333 40.87454) (xy 256.348967 40.70138)
+					(xy 256.544346 40.49906) (xy 256.709665 40.271517) (xy 256.841708 40.023181) (xy 256.937904 39.758885)
+					(xy 256.99638 39.483773)
 				)
 			)
 			(polygon
 				(pts
-					(xy -72.7626 -2.8652) (xy -72.757914 -2.853886) (xy -72.7466 -2.8492) (xy -72.735286 -2.853886)
-					(xy -72.7306 -2.8652) (xy -72.735286 -2.876514) (xy -72.7466 -2.8812) (xy -72.757914 -2.876514)
+					(xy 254.984 39.2032) (xy 254.988686 39.214514) (xy 255 39.2192) (xy 255.011314 39.214514) (xy 255.016 39.2032)
+					(xy 255.011314 39.191886) (xy 255 39.1872) (xy 254.988686 39.191886)
 				)
 			)
 		)
@@ -11401,24 +11401,24 @@
 			)
 			(polygon
 				(pts
-					(xy -70.7306 -2.8652) (xy -70.75022 -3.145773) (xy -70.808696 -3.420885) (xy -70.904892 -3.685181)
-					(xy -71.036935 -3.933517) (xy -71.202254 -4.16106) (xy -71.397633 -4.36338) (xy -71.619267 -4.53654)
-					(xy -71.862844 -4.677169) (xy -72.123622 -4.78253) (xy -72.396525 -4.850572) (xy -72.676243 -4.879972)
-					(xy -72.957329 -4.870156) (xy -73.234315 -4.821316) (xy -73.501807 -4.734403) (xy -73.7546 -4.611107)
-					(xy -73.987774 -4.45383) (xy -74.196789 -4.265631) (xy -74.377578 -4.050175) (xy -74.526622 -3.811655)
-					(xy -74.64102 -3.554713) (xy -74.718546 -3.28435) (xy -74.757689 -3.005829) (xy -74.757689 -2.724571)
-					(xy -74.718546 -2.44605) (xy -74.64102 -2.175687) (xy -74.526622 -1.918745) (xy -74.377578 -1.680225)
-					(xy -74.196789 -1.464769) (xy -73.987774 -1.27657) (xy -73.7546 -1.119293) (xy -73.501807 -0.995997)
-					(xy -73.234315 -0.909084) (xy -72.957329 -0.860244) (xy -72.676243 -0.850428) (xy -72.396525 -0.879828)
-					(xy -72.123622 -0.94787) (xy -71.862844 -1.053231) (xy -71.619267 -1.19386) (xy -71.397633 -1.36702)
-					(xy -71.202254 -1.56934) (xy -71.036935 -1.796883) (xy -70.904892 -2.045219) (xy -70.808696 -2.309515)
-					(xy -70.75022 -2.584627)
+					(xy 257.016 39.2032) (xy 256.99638 38.922627) (xy 256.937904 38.647515) (xy 256.841708 38.383219)
+					(xy 256.709665 38.134883) (xy 256.544346 37.90734) (xy 256.348967 37.70502) (xy 256.127333 37.53186)
+					(xy 255.883756 37.391231) (xy 255.622978 37.28587) (xy 255.350075 37.217828) (xy 255.070357 37.188428)
+					(xy 254.789271 37.198244) (xy 254.512285 37.247084) (xy 254.244793 37.333997) (xy 253.992 37.457293)
+					(xy 253.758826 37.61457) (xy 253.549811 37.802769) (xy 253.369022 38.018225) (xy 253.219978 38.256745)
+					(xy 253.10558 38.513687) (xy 253.028054 38.78405) (xy 252.988911 39.062571) (xy 252.988911 39.343829)
+					(xy 253.028054 39.62235) (xy 253.10558 39.892713) (xy 253.219978 40.149655) (xy 253.369022 40.388175)
+					(xy 253.549811 40.603631) (xy 253.758826 40.79183) (xy 253.992 40.949107) (xy 254.244793 41.072403)
+					(xy 254.512285 41.159316) (xy 254.789271 41.208156) (xy 255.070357 41.217972) (xy 255.350075 41.188572)
+					(xy 255.622978 41.12053) (xy 255.883756 41.015169) (xy 256.127333 40.87454) (xy 256.348967 40.70138)
+					(xy 256.544346 40.49906) (xy 256.709665 40.271517) (xy 256.841708 40.023181) (xy 256.937904 39.758885)
+					(xy 256.99638 39.483773)
 				)
 			)
 			(polygon
 				(pts
-					(xy -72.7626 -2.8652) (xy -72.757914 -2.853886) (xy -72.7466 -2.8492) (xy -72.735286 -2.853886)
-					(xy -72.7306 -2.8652) (xy -72.735286 -2.876514) (xy -72.7466 -2.8812) (xy -72.757914 -2.876514)
+					(xy 254.984 39.2032) (xy 254.988686 39.214514) (xy 255 39.2192) (xy 255.011314 39.214514) (xy 255.016 39.2032)
+					(xy 255.011314 39.191886) (xy 255 39.1872) (xy 254.988686 39.191886)
 				)
 			)
 		)
@@ -11427,7 +11427,7 @@
 	(footprint "Adafruit ESP32 Feather V2:BTN_KMR2_4.6X2.8"
 		(layer "F.Cu")
 		(uuid "6cef60ce-793e-476b-b6fe-a7919c8c96f5")
-		(at -70.8582 -21.083)
+		(at 185.02 131.377)
 		(property "Reference" "SW1"
 			(at -2.032 -1.778 0)
 			(unlocked yes)
@@ -11706,7 +11706,7 @@
 	(footprint "Adafruit ESP32 Feather V2:RESPACK_4X0603"
 		(layer "F.Cu")
 		(uuid "72ff6a05-156e-4e78-a0f4-6a82c76c03d9")
-		(at -103.2366 -21.2084)
+		(at 193.8904 108.7928)
 		(property "Reference" "R2"
 			(at -1.6 -1.6 0)
 			(unlocked yes)
@@ -11955,7 +11955,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "73471689-1549-4abe-acd0-3c47669b8244")
-		(at -49.5962 23.1172)
+		(at 207.65 101.5352)
 		(property "Reference" "R22"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -12134,7 +12134,7 @@
 	(footprint "Adafruit ESP32 Feather V2:FIDUCIAL_1MM"
 		(layer "F.Cu")
 		(uuid "74c98fdd-3883-41f6-a363-7617ba18705e")
-		(at -68.6482 -2.57)
+		(at 240 27.5)
 		(property "Reference" "U$1"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -12287,7 +12287,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:SOLDERJUMPER_REFLOW_NOPASTE"
 		(layer "F.Cu")
 		(uuid "75f46608-4eb0-4451-9cbd-70d7e3b1155a")
-		(at -57.3356 25.9876)
+		(at 199.9106 104.4056)
 		(property "Reference" "SJ1"
 			(at -1.651 -1.27 0)
 			(unlocked yes)
@@ -12508,7 +12508,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0603-NO"
 		(layer "F.Cu")
 		(uuid "77e64695-1749-4ea4-9dcb-8c90f0667a44")
-		(at -83.9898 -21.9556)
+		(at 171.8884 130.5044)
 		(property "Reference" "C4"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -12697,7 +12697,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0603-NO"
 		(layer "F.Cu")
 		(uuid "78ddcd68-51fd-4c49-8fd8-d2cd63f60aec")
-		(at -79.993 -21.9556)
+		(at 175.8852 130.5044)
 		(property "Reference" "R1"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -12886,7 +12886,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "7de1f85b-02f8-46f0-8d0b-e62d008e2cc1")
-		(at -53.593 8.0644)
+		(at 203.6532 86.4824)
 		(property "Reference" "C21"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -13065,7 +13065,7 @@
 	(footprint "Adafruit ESP32 Feather V2:USB_C_CUSB31-CFM2AX-01-X"
 		(layer "F.Cu")
 		(uuid "85037e16-00b3-4de2-b185-492b2571a174")
-		(at -80.6622 -6.05)
+		(at 157.68 139.29)
 		(property "Reference" "X2"
 			(at -2.75 3.56 90)
 			(unlocked yes)
@@ -13482,7 +13482,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "87aa3992-f062-4c57-ac99-f509209f502d")
-		(at -45.5994 18.0996)
+		(at 211.6468 96.5176)
 		(property "Reference" "R27"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -13661,7 +13661,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "87aad793-ba15-4baf-b249-b70865f229cf")
-		(at -49.5962 8.0644)
+		(at 207.65 86.4824)
 		(property "Reference" "R16"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -13840,7 +13840,7 @@
 	(footprint "Adafruit ESP32 Feather V2:SOD-123"
 		(layer "F.Cu")
 		(uuid "89571127-53da-4d64-8721-2acde81a4cb4")
-		(at -70.8082 -13.4084)
+		(at 185.07 139.0516)
 		(descr "SOD-123\n\nSource: http://www.diodes.com/datasheets/ds30139.pdf")
 		(property "Reference" "D1"
 			(at -1.27 -1.016 0)
@@ -14042,7 +14042,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:FIDUCIAL_1MM"
 		(layer "F.Cu")
 		(uuid "89d28c84-40c5-4f16-9e02-5f746b53087c")
-		(at -66.6382 34.9)
+		(at 237.5 51.5)
 		(property "Reference" "FID2"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -14195,7 +14195,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "8a0b1d14-db64-4577-b7bb-f4e76221a818")
-		(at -45.5994 13.082)
+		(at 211.6468 91.5)
 		(property "Reference" "R25"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -14374,7 +14374,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:SOT23-5L"
 		(layer "F.Cu")
 		(uuid "8b04ac9e-404c-4be3-a3a2-7ef1d304f51c")
-		(at -48.95 34.2)
+		(at 208.2962 112.618)
 		(descr "Small Outline Transistor\n\npackage type OT")
 		(property "Reference" "IC2"
 			(at -1.905 -1.905 0)
@@ -14664,7 +14664,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "8b12b25d-7e73-43d9-89cd-ce88e31040d3")
-		(at -45.5994 8.0644)
+		(at 211.6468 86.4824)
 		(property "Reference" "R23"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -14843,7 +14843,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:1X03_ROUND_76"
 		(layer "F.Cu")
 		(uuid "8fd4dc2c-46dc-475f-968a-2e69d043ba99")
-		(at -46.5366 25.8352)
+		(at 210.7096 104.2532)
 		(property "Reference" "JP5"
 			(at -3.8862 -1.8288 0)
 			(unlocked yes)
@@ -14987,7 +14987,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "90993c4c-5fa4-45d9-a1ad-3c7047f50017")
-		(at -49.5962 20.6084)
+		(at 207.65 99.0264)
 		(property "Reference" "R21"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -15166,7 +15166,7 @@
 	(footprint "adalogger featherwing:0603-NO"
 		(layer "F.Cu")
 		(uuid "91fb6049-4762-4dc8-8b8c-1672fd25f594")
-		(at -82.8498 13.082)
+		(at 101.15 101.5)
 		(property "Reference" "R31"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -15355,7 +15355,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:FIDUCIAL_1MM"
 		(layer "F.Cu")
 		(uuid "9210681f-4c9b-497f-9170-753dd4a3ac34")
-		(at -66.6382 37.9)
+		(at 237.5 54.5)
 		(property "Reference" "FID3"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -15508,7 +15508,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "9309c8c1-898e-4e0a-bca2-af620678fcd4")
-		(at -53.593 18.0996)
+		(at 203.6532 96.5176)
 		(property "Reference" "C26"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -15687,7 +15687,7 @@
 	(footprint "Adafruit ESP32 Feather V2:MOUNTINGHOLE_2.5_PLATED"
 		(layer "F.Cu")
 		(uuid "93a8e06a-29b7-4b99-9867-73b5d83db499")
-		(at -72.7466 -8.0684)
+		(at 255 34)
 		(property "Reference" "U$3"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -15808,24 +15808,23 @@
 			)
 			(polygon
 				(pts
-					(xy -70.7306 -8.0684) (xy -70.75022 -8.348973) (xy -70.808696 -8.624085) (xy -70.904892 -8.888381)
-					(xy -71.036935 -9.136717) (xy -71.202254 -9.36426) (xy -71.397633 -9.56658) (xy -71.619267 -9.73974)
-					(xy -71.862844 -9.880369) (xy -72.123622 -9.98573) (xy -72.396525 -10.053772) (xy -72.676243 -10.083172)
-					(xy -72.957329 -10.073356) (xy -73.234315 -10.024516) (xy -73.501807 -9.937603) (xy -73.7546 -9.814307)
-					(xy -73.987774 -9.65703) (xy -74.196789 -9.468831) (xy -74.377578 -9.253375) (xy -74.526622 -9.014855)
-					(xy -74.64102 -8.757913) (xy -74.718546 -8.48755) (xy -74.757689 -8.209029) (xy -74.757689 -7.927771)
-					(xy -74.718546 -7.64925) (xy -74.64102 -7.378887) (xy -74.526622 -7.121945) (xy -74.377578 -6.883425)
-					(xy -74.196789 -6.667969) (xy -73.987774 -6.47977) (xy -73.7546 -6.322493) (xy -73.501807 -6.199197)
-					(xy -73.234315 -6.112284) (xy -72.957329 -6.063444) (xy -72.676243 -6.053628) (xy -72.396525 -6.083028)
-					(xy -72.123622 -6.15107) (xy -71.862844 -6.256431) (xy -71.619267 -6.39706) (xy -71.397633 -6.57022)
-					(xy -71.202254 -6.77254) (xy -71.036935 -7.000083) (xy -70.904892 -7.248419) (xy -70.808696 -7.512715)
-					(xy -70.75022 -7.787827)
+					(xy 257.016 34) (xy 256.99638 33.719427) (xy 256.937904 33.444315) (xy 256.841708 33.180019) (xy 256.709665 32.931683)
+					(xy 256.544346 32.70414) (xy 256.348967 32.50182) (xy 256.127333 32.32866) (xy 255.883756 32.188031)
+					(xy 255.622978 32.08267) (xy 255.350075 32.014628) (xy 255.070357 31.985228) (xy 254.789271 31.995044)
+					(xy 254.512285 32.043884) (xy 254.244793 32.130797) (xy 253.992 32.254093) (xy 253.758826 32.41137)
+					(xy 253.549811 32.599569) (xy 253.369022 32.815025) (xy 253.219978 33.053545) (xy 253.10558 33.310487)
+					(xy 253.028054 33.58085) (xy 252.988911 33.859371) (xy 252.988911 34.140629) (xy 253.028054 34.41915)
+					(xy 253.10558 34.689513) (xy 253.219978 34.946455) (xy 253.369022 35.184975) (xy 253.549811 35.400431)
+					(xy 253.758826 35.58863) (xy 253.992 35.745907) (xy 254.244793 35.869203) (xy 254.512285 35.956116)
+					(xy 254.789271 36.004956) (xy 255.070357 36.014772) (xy 255.350075 35.985372) (xy 255.622978 35.91733)
+					(xy 255.883756 35.811969) (xy 256.127333 35.67134) (xy 256.348967 35.49818) (xy 256.544346 35.29586)
+					(xy 256.709665 35.068317) (xy 256.841708 34.819981) (xy 256.937904 34.555685) (xy 256.99638 34.280573)
 				)
 			)
 			(polygon
 				(pts
-					(xy -72.7626 -8.0684) (xy -72.757914 -8.057086) (xy -72.7466 -8.0524) (xy -72.735286 -8.057086)
-					(xy -72.7306 -8.0684) (xy -72.735286 -8.079714) (xy -72.7466 -8.0844) (xy -72.757914 -8.079714)
+					(xy 254.984 34) (xy 254.988686 34.011314) (xy 255 34.016) (xy 255.011314 34.011314) (xy 255.016 34)
+					(xy 255.011314 33.988686) (xy 255 33.984) (xy 254.988686 33.988686)
 				)
 			)
 		)
@@ -15857,24 +15856,23 @@
 			)
 			(polygon
 				(pts
-					(xy -70.7306 -8.0684) (xy -70.75022 -8.348973) (xy -70.808696 -8.624085) (xy -70.904892 -8.888381)
-					(xy -71.036935 -9.136717) (xy -71.202254 -9.36426) (xy -71.397633 -9.56658) (xy -71.619267 -9.73974)
-					(xy -71.862844 -9.880369) (xy -72.123622 -9.98573) (xy -72.396525 -10.053772) (xy -72.676243 -10.083172)
-					(xy -72.957329 -10.073356) (xy -73.234315 -10.024516) (xy -73.501807 -9.937603) (xy -73.7546 -9.814307)
-					(xy -73.987774 -9.65703) (xy -74.196789 -9.468831) (xy -74.377578 -9.253375) (xy -74.526622 -9.014855)
-					(xy -74.64102 -8.757913) (xy -74.718546 -8.48755) (xy -74.757689 -8.209029) (xy -74.757689 -7.927771)
-					(xy -74.718546 -7.64925) (xy -74.64102 -7.378887) (xy -74.526622 -7.121945) (xy -74.377578 -6.883425)
-					(xy -74.196789 -6.667969) (xy -73.987774 -6.47977) (xy -73.7546 -6.322493) (xy -73.501807 -6.199197)
-					(xy -73.234315 -6.112284) (xy -72.957329 -6.063444) (xy -72.676243 -6.053628) (xy -72.396525 -6.083028)
-					(xy -72.123622 -6.15107) (xy -71.862844 -6.256431) (xy -71.619267 -6.39706) (xy -71.397633 -6.57022)
-					(xy -71.202254 -6.77254) (xy -71.036935 -7.000083) (xy -70.904892 -7.248419) (xy -70.808696 -7.512715)
-					(xy -70.75022 -7.787827)
+					(xy 257.016 34) (xy 256.99638 33.719427) (xy 256.937904 33.444315) (xy 256.841708 33.180019) (xy 256.709665 32.931683)
+					(xy 256.544346 32.70414) (xy 256.348967 32.50182) (xy 256.127333 32.32866) (xy 255.883756 32.188031)
+					(xy 255.622978 32.08267) (xy 255.350075 32.014628) (xy 255.070357 31.985228) (xy 254.789271 31.995044)
+					(xy 254.512285 32.043884) (xy 254.244793 32.130797) (xy 253.992 32.254093) (xy 253.758826 32.41137)
+					(xy 253.549811 32.599569) (xy 253.369022 32.815025) (xy 253.219978 33.053545) (xy 253.10558 33.310487)
+					(xy 253.028054 33.58085) (xy 252.988911 33.859371) (xy 252.988911 34.140629) (xy 253.028054 34.41915)
+					(xy 253.10558 34.689513) (xy 253.219978 34.946455) (xy 253.369022 35.184975) (xy 253.549811 35.400431)
+					(xy 253.758826 35.58863) (xy 253.992 35.745907) (xy 254.244793 35.869203) (xy 254.512285 35.956116)
+					(xy 254.789271 36.004956) (xy 255.070357 36.014772) (xy 255.350075 35.985372) (xy 255.622978 35.91733)
+					(xy 255.883756 35.811969) (xy 256.127333 35.67134) (xy 256.348967 35.49818) (xy 256.544346 35.29586)
+					(xy 256.709665 35.068317) (xy 256.841708 34.819981) (xy 256.937904 34.555685) (xy 256.99638 34.280573)
 				)
 			)
 			(polygon
 				(pts
-					(xy -72.7626 -8.0684) (xy -72.757914 -8.057086) (xy -72.7466 -8.0524) (xy -72.735286 -8.057086)
-					(xy -72.7306 -8.0684) (xy -72.735286 -8.079714) (xy -72.7466 -8.0844) (xy -72.757914 -8.079714)
+					(xy 254.984 34) (xy 254.988686 34.011314) (xy 255 34.016) (xy 255.011314 34.011314) (xy 255.016 34)
+					(xy 255.011314 33.988686) (xy 255 33.984) (xy 254.988686 33.988686)
 				)
 			)
 		)
@@ -15883,7 +15881,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0603-NO"
 		(layer "F.Cu")
 		(uuid "94226292-6d51-4672-aba0-61d4acbd4f47")
-		(at -83.9898 -11.9204)
+		(at 171.8884 140.5396)
 		(property "Reference" "C10"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -16072,7 +16070,7 @@
 	(footprint "adalogger featherwing:1X01_ROUND"
 		(layer "F.Cu")
 		(uuid "950fdc6f-8af3-4c0c-8ff9-5293eaab94b0")
-		(at -82.8 31.4482)
+		(at 137.5 128)
 		(property "Reference" "INT1"
 			(at -1.3462 -1.8288 0)
 			(unlocked yes)
@@ -16156,7 +16154,7 @@
 	(footprint "adalogger featherwing:1X01_ROUND"
 		(layer "F.Cu")
 		(uuid "978e659c-3dc9-4286-a3ca-ad4a44a87ef8")
-		(at -82.8 34.1246)
+		(at 137.5 130.6764)
 		(property "Reference" "SDCS1"
 			(at -1.3462 -1.8288 0)
 			(unlocked yes)
@@ -16240,7 +16238,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "9aba491b-151a-4307-9ec9-80e7fedd55dc")
-		(at -45.5994 20.6084)
+		(at 211.6468 99.0264)
 		(property "Reference" "R28"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -16419,7 +16417,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "9c5d1df8-386b-4781-bc80-11c27c4e5b9c")
-		(at -57.5898 10.5732)
+		(at 199.6564 88.9912)
 		(property "Reference" "C14"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -16598,7 +16596,7 @@
 	(footprint "Adafruit ESP32 Feather V2:RESPACK_4X0603"
 		(layer "F.Cu")
 		(uuid "a0e370bb-1573-4e99-a1c3-3a94b99a5385")
-		(at -103.2366 2.8108)
+		(at 193.9 133.6628)
 		(property "Reference" "R12"
 			(at -1.6 -1.6 0)
 			(unlocked yes)
@@ -16847,7 +16845,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "a64590c1-9ff7-4d34-9165-90797c487937")
-		(at -53.593 13.082)
+		(at 203.6532 91.5)
 		(property "Reference" "C24"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -17026,7 +17024,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "a79773ac-2539-4733-bc1a-a9faf5886e62")
-		(at -49.5962 15.5908)
+		(at 207.65 94.0088)
 		(property "Reference" "R19"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -17205,7 +17203,7 @@
 	(footprint "adalogger featherwing:0603-NO"
 		(layer "F.Cu")
 		(uuid "ab2e8d30-f723-475b-a6b6-ef137ce95b3e")
-		(at -82.8498 10.5732)
+		(at 101.15 98.9912)
 		(property "Reference" "R30"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -17394,7 +17392,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0805-NO"
 		(layer "F.Cu")
 		(uuid "aba89961-c530-4061-8960-44ddfde81324")
-		(at -75.9282 -11.96)
+		(at 179.95 140.5)
 		(property "Reference" "C6"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -17531,7 +17529,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "ac692764-da31-4e6b-83cd-ad34cb3baebb")
-		(at -49.5962 10.5732)
+		(at 207.65 88.9912)
 		(property "Reference" "R17"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -17710,7 +17708,7 @@
 	(footprint "adalogger featherwing:CR1220-2"
 		(layer "F.Cu")
 		(uuid "ac70c410-aca7-4165-9f81-810ed41d5e06")
-		(at -95.6382 15.3624)
+		(at 128.05 99)
 		(property "Reference" "B1"
 			(at -1.602 -0.14 0)
 			(unlocked yes)
@@ -18139,7 +18137,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0603-NO"
 		(layer "F.Cu")
 		(uuid "b1aadde4-b29c-4279-9f80-cc85caf3ae62")
-		(at -79.993 -14.4292)
+		(at 175.8852 138.0308)
 		(property "Reference" "R8"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -18328,12 +18326,12 @@
 	(footprint "adalogger featherwing:0805-NO"
 		(layer "F.Cu")
 		(uuid "b2147c1c-c639-4a26-91a6-9ea10b32087a")
-		(at -83.5682 42.26)
+		(at 106.55 126)
 		(property "Reference" "C28"
 			(at 2.032 0.127 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "cf82f19b-42fc-4870-a7e5-2e295f5d3a20")
+			(uuid "855dc96b-7725-4daf-8333-8f5c7e4573a5")
 			(effects
 				(font
 					(size 0.666496 0.666496)
@@ -18346,7 +18344,7 @@
 			(at 2.032 0.762 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "4efeee41-d5e4-49e0-b424-e3b8ee6a5dfe")
+			(uuid "1f483bb8-e518-4bdb-8f6b-cabb241d6870")
 			(effects
 				(font
 					(size 0.36576 0.36576)
@@ -18359,7 +18357,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bedbc218-6d3b-4245-9815-34290b324b03")
+			(uuid "d59f534b-12ba-4bb1-a23f-7c4355368949")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18371,7 +18369,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5ef5837e-5d0d-410b-a8c0-5bb2f5d536e9")
+			(uuid "2468be27-9d87-4514-961e-d2c22c3dbd99")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18465,7 +18463,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0805-NO"
 		(layer "F.Cu")
 		(uuid "b492ae36-eb3a-45b5-ad33-a505ab74d1ba")
-		(at -75.9282 -21.96)
+		(at 179.95 130.5)
 		(property "Reference" "C1"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -18602,7 +18600,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "b67bf906-8f37-4958-b763-d6cd7ade9143")
-		(at -45.5994 15.5908)
+		(at 211.6468 94.0088)
 		(property "Reference" "R26"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -18781,7 +18779,7 @@
 	(footprint "adalogger featherwing:FIDUCIAL_1MM"
 		(layer "F.Cu")
 		(uuid "bfe6b124-6acd-44b2-b4e2-59619073d4ef")
-		(at -83.3482 21.34)
+		(at 236 37)
 		(property "Reference" "FID5"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -18934,7 +18932,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0805-NO"
 		(layer "F.Cu")
 		(uuid "c0baf3c8-1661-416c-9f01-4bb7f4050747")
-		(at -75.9282 -14.46)
+		(at 179.95 138)
 		(property "Reference" "C5"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -19071,7 +19069,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0805-NO"
 		(layer "F.Cu")
 		(uuid "c315e515-7d46-44fc-b913-86dd94852310")
-		(at -53.0182 28.12)
+		(at 204.228 106.538)
 		(property "Reference" "C17"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -19208,7 +19206,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:CRYSTAL_3.2X2.5"
 		(layer "F.Cu")
 		(uuid "c6bf46d9-2325-4bab-beb9-a845df614800")
-		(at -48.2966 29.5516)
+		(at 208.9496 107.9696)
 		(descr "3.2mm x 2.5mm Thin SMT Crystal")
 		(property "Reference" "Y1"
 			(at -2.032 -1.778 0)
@@ -19434,7 +19432,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0603-NO"
 		(layer "F.Cu")
 		(uuid "c7c01d4f-c3be-4b18-9841-e7aac9c5bf79")
-		(at -79.993 -19.4468)
+		(at 175.8852 133.0132)
 		(property "Reference" "R3"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -19623,7 +19621,7 @@
 	(footprint "Adafruit ESP32 Feather V2:QFN24_4MM_SMSC"
 		(layer "F.Cu")
 		(uuid "cc03334e-fbf1-464d-8d35-858b07be0034")
-		(at -83.0882 1.21)
+		(at 162.5 126.5)
 		(property "Reference" "IC1"
 			(at -2.45 -2.8 0)
 			(unlocked yes)
@@ -20232,7 +20230,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "ccbed70a-e1fe-4224-b0a9-636cad7d0c6a")
-		(at -57.5898 18.0996)
+		(at 199.6564 96.5176)
 		(property "Reference" "C18"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -20411,7 +20409,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "d536abe6-be7f-421b-98f9-7693014cdbd5")
-		(at -57.5898 8.0644)
+		(at 199.6564 86.4824)
 		(property "Reference" "C12"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -20590,7 +20588,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:SOLDERJUMPER_REFLOW_NOPASTE"
 		(layer "F.Cu")
 		(uuid "d762738e-004c-4ad6-99b9-db7ed057ebc1")
-		(at -57.3356 32.458)
+		(at 199.9106 110.876)
 		(property "Reference" "SJ3"
 			(at -1.651 -1.27 0)
 			(unlocked yes)
@@ -20811,7 +20809,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "d958c5ee-5dc7-4913-8804-420857efd8e0")
-		(at -57.5898 20.6084)
+		(at 199.6564 99.0264)
 		(property "Reference" "C19"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -20990,7 +20988,7 @@
 	(footprint "Adafruit ESP32 Feather V2:SOT363"
 		(layer "F.Cu")
 		(uuid "e2628b21-c5ae-4a0b-9e2d-f4fab6e89c9b")
-		(at -67.9466 -5.72)
+		(at 187.9316 146.74)
 		(descr "Source: http://www.nxp.com/documents/data_sheet/2N7002PS.pdf")
 		(property "Reference" "Q2"
 			(at 1.651 -0.127 0)
@@ -21256,7 +21254,7 @@
 	(footprint "Adafruit ESP32 Feather V2:LED3535"
 		(layer "F.Cu")
 		(uuid "e38c74ad-e07c-4eb7-8b60-e6e4df1d1080")
-		(at -97.9882 -2.5915)
+		(at 141.75 108.125)
 		(property "Reference" "LED1"
 			(at -1.905 -2.159 0)
 			(unlocked yes)
@@ -21486,7 +21484,7 @@
 	(footprint "adalogger featherwing:MICROSD"
 		(layer "F.Cu")
 		(uuid "e392f420-e6bf-442b-a285-c9e5eeb927f4")
-		(at -104.9382 24.77)
+		(at 117.5 122.06)
 		(descr "Courtesy: Adafruit Industries")
 		(property "Reference" "X4"
 			(at 1.18 7.69 0)
@@ -24213,7 +24211,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "e4d9f674-8951-402d-8094-9d53e09e7f0f")
-		(at -49.5962 13.082)
+		(at 207.65 91.5)
 		(property "Reference" "R18"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -24392,7 +24390,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0603-NO"
 		(layer "F.Cu")
 		(uuid "e8b0fade-f465-4c08-9a71-1e4e31411236")
-		(at -53.593 23.1172)
+		(at 203.6532 101.5352)
 		(property "Reference" "R15"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -24571,7 +24569,7 @@
 	(footprint "Adafruit ESP32 Feather V2:1X12_ROUND"
 		(layer "F.Cu")
 		(uuid "ed6c8a42-0d4f-4faa-b471-989de07c9148")
-		(at -89.8966 -24.5418)
+		(at 153.93 83.5)
 		(property "Reference" "JP1"
 			(at -15.3162 -1.8288 0)
 			(unlocked yes)
@@ -24940,7 +24938,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0603-NO"
 		(layer "F.Cu")
 		(uuid "f1cf7a20-bd30-4473-865b-939f5eb495cd")
-		(at -79.993 -16.938)
+		(at 175.8852 135.522)
 		(property "Reference" "R6"
 			(at 1.778 0.127 0)
 			(unlocked yes)
@@ -25129,7 +25127,7 @@
 	(footprint "Adafruit ESP32 Feather V2:FIDUCIAL_1MM"
 		(layer "F.Cu")
 		(uuid "f316540d-e1f0-4fc7-bd25-53ff0f7732b8")
-		(at -68.6482 0.43)
+		(at 236.5 43.5)
 		(property "Reference" "U$2"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -25282,7 +25280,7 @@
 	(footprint "adalogger featherwing:SOLDERJUMPER_CLOSEDWIRE"
 		(layer "F.Cu")
 		(uuid "f4a3288c-2974-465f-bdf6-c7a5ef50acba")
-		(at -87.8856 40.1276)
+		(at 89.238 99)
 		(property "Reference" "SJ5"
 			(at -1.651 -1.27 0)
 			(unlocked yes)
@@ -25512,7 +25510,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0805-NO"
 		(layer "F.Cu")
 		(uuid "f8493609-1cd2-495d-84a8-8cdce7747722")
-		(at -75.9282 -19.46)
+		(at 179.95 133)
 		(property "Reference" "C2"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -25662,7 +25660,7 @@
 	(footprint "Adafruit Ethernet FeatherWing:0805-NO"
 		(layer "F.Cu")
 		(uuid "f96b9b32-4641-43db-8c7f-385035b5a745")
-		(at -53.0182 33.12)
+		(at 204.228 111.538)
 		(property "Reference" "FB1"
 			(at 2.032 0.127 0)
 			(unlocked yes)
@@ -25799,7 +25797,7 @@
 	(footprint "Adafruit ESP32 Feather V2:0603-NO"
 		(layer "F.Cu")
 		(uuid "fe59d77b-dc52-45dc-8cfa-ebd73f0436d4")
-		(at -83.9898 -14.4292)
+		(at 171.8884 138.0308)
 		(property "Reference" "C9"
 			(at 1.778 0.127 0)
 			(unlocked yes)
